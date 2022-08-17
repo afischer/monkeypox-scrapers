@@ -5,7 +5,7 @@
     "source_name": "NY DOH",
     "region": "Albany",
     "geoid": "US-36001",
-    "cases": 2
+    "cases": 3
   },
   {
     "country": "United States",
@@ -69,7 +69,7 @@
     "source_name": "NY DOH",
     "region": "Nassau",
     "geoid": "US-36059",
-    "cases": 26
+    "cases": 27
   },
   {
     "country": "United States",
@@ -181,7 +181,7 @@
     "source_name": "NY DOH",
     "region": "Westchester",
     "geoid": "US-36119",
-    "cases": 66
+    "cases": 67
   },
   {
     "country": "United States",
@@ -189,7 +189,7 @@
     "source_name": "NY DOH",
     "region": "New York City",
     "geoid": "US-3651000",
-    "cases": 2431
+    "cases": 2483
   },
   {
     "country": "United States",
@@ -197,6 +197,6 @@
     "source_name": "NY DOH",
     "region": "New York",
     "geoid": "US-36",
-    "cases": 2620
+    "cases": 2675
   }
 ]
