@@ -2,7 +2,7 @@ name: Scrape US_cdc
 
 on:
   schedule:
-    - cron:  '*/16 * * * *'
+    - cron:  '5,20,35,50 * * * *'
   push:
   workflow_dispatch:
 
@@ -18,11 +18,12 @@ jobs:
         node-version: '16.x'
     - run: npm install
     - run: ./node_modules/.bin/ts-node runScraper.ts US_cdc > data/US_cdc.json
+    - run: ./node_modules/.bin/ts-node runScraper.ts US_NY_NYC > data/US_NY_NYC.json
     - name: Commit and push changes
       run: |-
         git config user.name "Scraper"
         git config user.email "actions@users.noreply.github.com"
         git add -A
         timestamp=$(date -u)
-        git commit -m "US_cdc update: ${timestamp}" || exit 0
+        git commit -m "Latest data: ${timestamp}" || exit 0
         git push

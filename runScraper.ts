@@ -10,7 +10,7 @@ const run = async () => {
   const data = await scraper.run();
 
   // apped timestamp to data;
-  data.forEach((entry: ScrapeItem & {timestamp: string}) => { entry.timestamp = runTimestamp });
+  // data.forEach((entry: ScrapeItem & {timestamp: string}) => { entry.timestamp = runTimestamp });
   console.log(JSON.stringify(data, null, 2));
 }
 

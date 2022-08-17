@@ -55,7 +55,7 @@ const stateFIPS: Record<string, string> = {
   'northern mariana islands': "69",
   'puerto rico': "72",
   'virgin islands': "78",
-  'non-us resident': "NONRESIDENT"
+  'non-us resident': "NONRESIDENT",
 }
 
 export function getFIPSByStateName(stateName: string): string {
