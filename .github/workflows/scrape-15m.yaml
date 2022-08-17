@@ -19,6 +19,7 @@ jobs:
     - run: npm install
     - run: ./node_modules/.bin/ts-node runScraper.ts US_cdc > data/US_cdc.json
     - run: ./node_modules/.bin/ts-node runScraper.ts US_NY_NYC > data/US_NY_NYC.json
+    - run: ./node_modules/.bin/ts-node runScraper.ts US_NY > data/US_NY.json
     - name: Commit and push changes
       run: |-
         git config user.name "Scraper"
