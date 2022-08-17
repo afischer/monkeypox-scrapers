@@ -1,0 +1,202 @@
+[
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "NY DOH",
+    "region": "Albany",
+    "geoid": "US-36001",
+    "cases": 2
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "NY DOH",
+    "region": "Broome",
+    "geoid": "US-36007",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "NY DOH",
+    "region": "Chemung",
+    "geoid": "US-36015",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "NY DOH",
+    "region": "Columbia",
+    "geoid": "US-36021",
+    "cases": 2
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "NY DOH",
+    "region": "Dutchess",
+    "geoid": "US-36027",
+    "cases": 7
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "NY DOH",
+    "region": "Erie",
+    "geoid": "US-36029",
+    "cases": 8
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "NY DOH",
+    "region": "Greene",
+    "geoid": "US-36039",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "NY DOH",
+    "region": "Monroe",
+    "geoid": "US-36055",
+    "cases": 7
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "NY DOH",
+    "region": "Nassau",
+    "geoid": "US-36059",
+    "cases": 26
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "NY DOH",
+    "region": "Niagara",
+    "geoid": "US-36063",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "NY DOH",
+    "region": "Onondaga",
+    "geoid": "US-36067",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "NY DOH",
+    "region": "Orange",
+    "geoid": "US-36071",
+    "cases": 8
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "NY DOH",
+    "region": "Putnam",
+    "geoid": "US-36079",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "NY DOH",
+    "region": "Rockland",
+    "geoid": "US-36087",
+    "cases": 6
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "NY DOH",
+    "region": "Schenectady",
+    "geoid": "US-36093",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "NY DOH",
+    "region": "Seneca",
+    "geoid": "US-36099",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "NY DOH",
+    "region": "St. Lawrence",
+    "geoid": "US-36089",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "NY DOH",
+    "region": "Suffolk",
+    "geoid": "US-36103",
+    "cases": 39
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "NY DOH",
+    "region": "Sullivan",
+    "geoid": "US-36105",
+    "cases": 3
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "NY DOH",
+    "region": "Tioga",
+    "geoid": "US-36107",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "NY DOH",
+    "region": "Tompkins",
+    "geoid": "US-36109",
+    "cases": 3
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "NY DOH",
+    "region": "Ulster",
+    "geoid": "US-36111",
+    "cases": 2
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "NY DOH",
+    "region": "Westchester",
+    "geoid": "US-36119",
+    "cases": 66
+  },
+  {
+    "country": "United States",
+    "region_type": "city",
+    "source_name": "NY DOH",
+    "region": "New York City",
+    "geoid": "US-3651000",
+    "cases": 2431
+  },
+  {
+    "country": "United States",
+    "region_type": "state",
+    "source_name": "NY DOH",
+    "region": "Total",
+    "geoid": "US-36",
+    "cases": 2620
+  }
+]
