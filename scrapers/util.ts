@@ -61,6 +61,7 @@ const stateFIPS: Record<string, string> = {
 const countyFips: Record<string, Record<string, string>> = {
   NY: {
     'new york city': "3651000",
+    'nyc': "3651000",
     albany: "36001",
     allegany: "36003",
     bronx: "36005",

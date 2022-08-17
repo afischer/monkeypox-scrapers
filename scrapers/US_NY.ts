@@ -20,7 +20,7 @@ export default class US_NY implements Scraper {
       if (data.length !== 2) throw new Error("Unknown columns found");
 
       let countyName = $(data[0]).text();
-      if (countyName === "NYC") countyName = "New York City";
+
       const fips =
         countyName === "Total" ? "36" : getFIPSByCountyName(countyName, "NY");
 
@@ -34,9 +34,12 @@ export default class US_NY implements Scraper {
       const region_type =
         countyName === "Total"
           ? RegionType.STATE
-          : countyName === "New York City"
+          : countyName === "NYC"
           ? RegionType.CITY
           : RegionType.COUNTY;
+
+      if (countyName === "NYC") countyName = "New York City";
+      if (countyName === "Total") countyName = "New York";
 
       entries.push({
         country: "United States",
