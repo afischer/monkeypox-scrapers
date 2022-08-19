@@ -35,6 +35,14 @@
     "country": "United States",
     "region_type": "county",
     "source_name": "NY DOH",
+    "region": "Delaware",
+    "geoid": "US-36025",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "NY DOH",
     "region": "Dutchess",
     "geoid": "US-36027",
     "cases": 8
@@ -69,7 +77,7 @@
     "source_name": "NY DOH",
     "region": "Nassau",
     "geoid": "US-36059",
-    "cases": 27
+    "cases": 28
   },
   {
     "country": "United States",
@@ -77,7 +85,7 @@
     "source_name": "NY DOH",
     "region": "Niagara",
     "geoid": "US-36063",
-    "cases": 1
+    "cases": 2
   },
   {
     "country": "United States",
@@ -109,7 +117,7 @@
     "source_name": "NY DOH",
     "region": "Rockland",
     "geoid": "US-36087",
-    "cases": 6
+    "cases": 7
   },
   {
     "country": "United States",
@@ -181,7 +189,7 @@
     "source_name": "NY DOH",
     "region": "Westchester",
     "geoid": "US-36119",
-    "cases": 68
+    "cases": 70
   },
   {
     "country": "United States",
@@ -189,7 +197,7 @@
     "source_name": "NY DOH",
     "region": "New York City",
     "geoid": "US-3651000",
-    "cases": 2548
+    "cases": 2596
   },
   {
     "country": "United States",
@@ -197,6 +205,6 @@
     "source_name": "NY DOH",
     "region": "New York",
     "geoid": "US-36",
-    "cases": 2744
+    "cases": 2798
   }
 ]
