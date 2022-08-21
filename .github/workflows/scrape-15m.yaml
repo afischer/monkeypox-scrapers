@@ -21,6 +21,7 @@ jobs:
     - run: ./node_modules/.bin/ts-node runScraper.ts US_NY_NYC > data/US_NY_NYC.json
     - run: ./node_modules/.bin/ts-node runScraper.ts US_NY > data/US_NY.json
     - run: ./node_modules/.bin/ts-node runScraper.ts US_CA > data/US_CA.json
+    - run: ./node_modules/.bin/ts-node runScraper.ts US_FL > data/US_FL.json
     - name: Commit and push changes
       run: |-
         git config user.name "Scraper"
