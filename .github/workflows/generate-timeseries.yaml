@@ -1,0 +1,27 @@
+name: Generate Timeseries
+
+on:
+  schedule:
+    - cron:  '0 23 * * *'
+  workflow_dispatch:
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v2
+    - name: Scrape latest data
+      uses: actions/setup-node@v1
+      with:
+        node-version: '16.x'
+    - run: npm install
+    - run: ./node_modules/.bin/ts-node toCSV.ts >> data/timeseries.csv
+    - name: Commit and push changes
+      run: |-
+        git config user.name "Scraper"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Generate timeseries: ${timestamp}" || exit 0
+        git push
