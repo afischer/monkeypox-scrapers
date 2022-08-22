@@ -3,7 +3,7 @@
     "geoid": "US-01",
     "country": "United States",
     "region": "Alabama",
-    "cases": 34,
+    "cases": 47,
     "region_type": "state",
     "source_name": "CDC"
   },
@@ -11,7 +11,7 @@
     "geoid": "US-02",
     "country": "United States",
     "region": "Alaska",
-    "cases": 2,
+    "cases": 3,
     "region_type": "state",
     "source_name": "CDC"
   },
@@ -19,7 +19,7 @@
     "geoid": "US-04",
     "country": "United States",
     "region": "Arizona",
-    "cases": 220,
+    "cases": 258,
     "region_type": "state",
     "source_name": "CDC"
   },
@@ -51,7 +51,7 @@
     "geoid": "US-09",
     "country": "United States",
     "region": "Connecticut",
-    "cases": 73,
+    "cases": 82,
     "region_type": "state",
     "source_name": "CDC"
   },
@@ -59,7 +59,7 @@
     "geoid": "US-10",
     "country": "United States",
     "region": "Delaware",
-    "cases": 10,
+    "cases": 17,
     "region_type": "state",
     "source_name": "CDC"
   },
@@ -67,7 +67,7 @@
     "geoid": "US-10",
     "country": "United States",
     "region": "District of Columbia",
-    "cases": 351,
+    "cases": 372,
     "region_type": "state",
     "source_name": "CDC"
   },
@@ -75,7 +75,7 @@
     "geoid": "US-12",
     "country": "United States",
     "region": "Florida",
-    "cases": 1372,
+    "cases": 1588,
     "region_type": "state",
     "source_name": "CDC"
   },
@@ -83,7 +83,7 @@
     "geoid": "US-13",
     "country": "United States",
     "region": "Georgia",
-    "cases": 1066,
+    "cases": 1190,
     "region_type": "state",
     "source_name": "CDC"
   },
@@ -107,7 +107,7 @@
     "geoid": "US-17",
     "country": "United States",
     "region": "Illinois",
-    "cases": 888,
+    "cases": 951,
     "region_type": "state",
     "source_name": "CDC"
   },
@@ -115,7 +115,7 @@
     "geoid": "US-18",
     "country": "United States",
     "region": "Indiana",
-    "cases": 102,
+    "cases": 107,
     "region_type": "state",
     "source_name": "CDC"
   },
@@ -139,7 +139,7 @@
     "geoid": "US-21",
     "country": "United States",
     "region": "Kentucky",
-    "cases": 18,
+    "cases": 22,
     "region_type": "state",
     "source_name": "CDC"
   },
@@ -147,7 +147,7 @@
     "geoid": "US-22",
     "country": "United States",
     "region": "Louisiana",
-    "cases": 127,
+    "cases": 146,
     "region_type": "state",
     "source_name": "CDC"
   },
@@ -155,7 +155,7 @@
     "geoid": "US-23",
     "country": "United States",
     "region": "Maine",
-    "cases": 3,
+    "cases": 5,
     "region_type": "state",
     "source_name": "CDC"
   },
@@ -163,7 +163,7 @@
     "geoid": "US-24",
     "country": "United States",
     "region": "Maryland",
-    "cases": 349,
+    "cases": 379,
     "region_type": "state",
     "source_name": "CDC"
   },
@@ -171,7 +171,7 @@
     "geoid": "US-25",
     "country": "United States",
     "region": "Massachusetts",
-    "cases": 243,
+    "cases": 265,
     "region_type": "state",
     "source_name": "CDC"
   },
@@ -179,7 +179,7 @@
     "geoid": "US-26",
     "country": "United States",
     "region": "Michigan",
-    "cases": 108,
+    "cases": 138,
     "region_type": "state",
     "source_name": "CDC"
   },
@@ -187,7 +187,7 @@
     "geoid": "US-27",
     "country": "United States",
     "region": "Minnesota",
-    "cases": 87,
+    "cases": 101,
     "region_type": "state",
     "source_name": "CDC"
   },
@@ -195,7 +195,7 @@
     "geoid": "US-28",
     "country": "United States",
     "region": "Mississippi",
-    "cases": 18,
+    "cases": 19,
     "region_type": "state",
     "source_name": "CDC"
   },
@@ -203,7 +203,7 @@
     "geoid": "US-29",
     "country": "United States",
     "region": "Missouri",
-    "cases": 25,
+    "cases": 34,
     "region_type": "state",
     "source_name": "CDC"
   },
@@ -219,7 +219,7 @@
     "geoid": "US-31",
     "country": "United States",
     "region": "Nebraska",
-    "cases": 18,
+    "cases": 21,
     "region_type": "state",
     "source_name": "CDC"
   },
@@ -227,7 +227,7 @@
     "geoid": "US-32",
     "country": "United States",
     "region": "Nevada",
-    "cases": 113,
+    "cases": 118,
     "region_type": "state",
     "source_name": "CDC"
   },
@@ -243,7 +243,7 @@
     "geoid": "US-34",
     "country": "United States",
     "region": "New Jersey",
-    "cases": 377,
+    "cases": 420,
     "region_type": "state",
     "source_name": "CDC"
   },
@@ -251,7 +251,7 @@
     "geoid": "US-35",
     "country": "United States",
     "region": "New Mexico",
-    "cases": 16,
+    "cases": 19,
     "region_type": "state",
     "source_name": "CDC"
   },
@@ -259,7 +259,7 @@
     "geoid": "US-36",
     "country": "United States",
     "region": "New York",
-    "cases": 2744,
+    "cases": 2910,
     "region_type": "state",
     "source_name": "CDC"
   },
@@ -275,7 +275,7 @@
     "geoid": "US-37",
     "country": "United States",
     "region": "North Carolina",
-    "cases": 188,
+    "cases": 250,
     "region_type": "state",
     "source_name": "CDC"
   },
@@ -283,7 +283,7 @@
     "geoid": "US-38",
     "country": "United States",
     "region": "North Dakota",
-    "cases": 3,
+    "cases": 4,
     "region_type": "state",
     "source_name": "CDC"
   },
@@ -291,7 +291,7 @@
     "geoid": "US-39",
     "country": "United States",
     "region": "Ohio",
-    "cases": 123,
+    "cases": 133,
     "region_type": "state",
     "source_name": "CDC"
   },
@@ -299,7 +299,7 @@
     "geoid": "US-40",
     "country": "United States",
     "region": "Oklahoma",
-    "cases": 17,
+    "cases": 18,
     "region_type": "state",
     "source_name": "CDC"
   },
@@ -307,7 +307,7 @@
     "geoid": "US-41",
     "country": "United States",
     "region": "Oregon",
-    "cases": 116,
+    "cases": 141,
     "region_type": "state",
     "source_name": "CDC"
   },
@@ -315,7 +315,7 @@
     "geoid": "US-42",
     "country": "United States",
     "region": "Pennsylvania",
-    "cases": 371,
+    "cases": 422,
     "region_type": "state",
     "source_name": "CDC"
   },
@@ -323,7 +323,7 @@
     "geoid": "US-72",
     "country": "United States",
     "region": "Puerto Rico",
-    "cases": 66,
+    "cases": 77,
     "region_type": "state",
     "source_name": "CDC"
   },
@@ -331,7 +331,7 @@
     "geoid": "US-44",
     "country": "United States",
     "region": "Rhode Island",
-    "cases": 37,
+    "cases": 38,
     "region_type": "state",
     "source_name": "CDC"
   },
@@ -339,7 +339,7 @@
     "geoid": "US-45",
     "country": "United States",
     "region": "South Carolina",
-    "cases": 72,
+    "cases": 86,
     "region_type": "state",
     "source_name": "CDC"
   },
@@ -355,7 +355,7 @@
     "geoid": "US-47",
     "country": "United States",
     "region": "Tennessee",
-    "cases": 107,
+    "cases": 137,
     "region_type": "state",
     "source_name": "CDC"
   },
@@ -363,7 +363,7 @@
     "geoid": "US-48",
     "country": "United States",
     "region": "Texas",
-    "cases": 1079,
+    "cases": 1283,
     "region_type": "state",
     "source_name": "CDC"
   },
@@ -371,7 +371,7 @@
     "geoid": "US",
     "country": "United States",
     "region": null,
-    "cases": 14115,
+    "cases": 15433,
     "region_type": "country",
     "source_name": "CDC"
   },
@@ -379,7 +379,7 @@
     "geoid": "US-49",
     "country": "United States",
     "region": "Utah",
-    "cases": 77,
+    "cases": 89,
     "region_type": "state",
     "source_name": "CDC"
   },
@@ -395,7 +395,7 @@
     "geoid": "US-51",
     "country": "United States",
     "region": "Virginia",
-    "cases": 229,
+    "cases": 263,
     "region_type": "state",
     "source_name": "CDC"
   },
@@ -403,7 +403,7 @@
     "geoid": "US-53",
     "country": "United States",
     "region": "Washington",
-    "cases": 314,
+    "cases": 328,
     "region_type": "state",
     "source_name": "CDC"
   },
@@ -411,7 +411,7 @@
     "geoid": "US-54",
     "country": "United States",
     "region": "West Virginia",
-    "cases": 5,
+    "cases": 4,
     "region_type": "state",
     "source_name": "CDC"
   },
@@ -427,7 +427,7 @@
     "geoid": "US-56",
     "country": "United States",
     "region": "Wyoming",
-    "cases": 0,
+    "cases": 1,
     "region_type": "state",
     "source_name": "CDC"
   }
