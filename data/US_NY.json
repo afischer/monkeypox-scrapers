@@ -13,7 +13,7 @@
     "source_name": "NY DOH",
     "region": "Broome",
     "geoid": "US-36007",
-    "cases": 1
+    "cases": 2
   },
   {
     "country": "United States",
@@ -61,7 +61,7 @@
     "source_name": "NY DOH",
     "region": "Greene",
     "geoid": "US-36039",
-    "cases": 1
+    "cases": 2
   },
   {
     "country": "United States",
@@ -149,7 +149,7 @@
     "source_name": "NY DOH",
     "region": "Suffolk",
     "geoid": "US-36103",
-    "cases": 43
+    "cases": 45
   },
   {
     "country": "United States",
@@ -197,7 +197,7 @@
     "source_name": "NY DOH",
     "region": "New York City",
     "geoid": "US-3651000",
-    "cases": 2795
+    "cases": 2810
   },
   {
     "country": "United States",
@@ -205,6 +205,6 @@
     "source_name": "NY DOH",
     "region": "New York",
     "geoid": "US-36",
-    "cases": 3019
+    "cases": 3038
   }
 ]
