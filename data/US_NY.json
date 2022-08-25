@@ -77,7 +77,7 @@
     "source_name": "NY DOH",
     "region": "Nassau",
     "geoid": "US-36059",
-    "cases": 36
+    "cases": 38
   },
   {
     "country": "United States",
@@ -117,7 +117,7 @@
     "source_name": "NY DOH",
     "region": "Rockland",
     "geoid": "US-36087",
-    "cases": 7
+    "cases": 8
   },
   {
     "country": "United States",
@@ -189,7 +189,7 @@
     "source_name": "NY DOH",
     "region": "Westchester",
     "geoid": "US-36119",
-    "cases": 76
+    "cases": 77
   },
   {
     "country": "United States",
@@ -197,7 +197,7 @@
     "source_name": "NY DOH",
     "region": "New York City",
     "geoid": "US-3651000",
-    "cases": 2810
+    "cases": 2885
   },
   {
     "country": "United States",
@@ -205,6 +205,6 @@
     "source_name": "NY DOH",
     "region": "New York",
     "geoid": "US-36",
-    "cases": 3038
+    "cases": 3117
   }
 ]
