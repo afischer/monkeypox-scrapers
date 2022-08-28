@@ -1,1 +1,266 @@
-[]
+[
+  {
+    "country": "United States",
+    "region_type": "state",
+    "source_name": "FL DOH",
+    "region": "Florida",
+    "geoid": "US-12",
+    "cases": 1796
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "FL DOH",
+    "region": "Alachua",
+    "geoid": "US-12001",
+    "cases": 3
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "FL DOH",
+    "region": "Brevard",
+    "geoid": "US-12009",
+    "cases": 6
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "FL DOH",
+    "region": "Broward",
+    "geoid": "US-12011",
+    "cases": 544
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "FL DOH",
+    "region": "Charlotte",
+    "geoid": "US-12015",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "FL DOH",
+    "region": "Citrus",
+    "geoid": "US-12017",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "FL DOH",
+    "region": "Clay",
+    "geoid": "US-12019",
+    "cases": 5
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "FL DOH",
+    "region": "Collier",
+    "geoid": "US-12021",
+    "cases": 4
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "FL DOH",
+    "region": "Duval",
+    "geoid": "US-12031",
+    "cases": 23
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "FL DOH",
+    "region": "Escambia",
+    "geoid": "US-12033",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "FL DOH",
+    "region": "Flagler",
+    "geoid": "US-12035",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "FL DOH",
+    "region": "Gadsden",
+    "geoid": "US-12039",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "FL DOH",
+    "region": "Hendry",
+    "geoid": "US-12051",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "FL DOH",
+    "region": "Hillsborough",
+    "geoid": "US-12057",
+    "cases": 116
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "FL DOH",
+    "region": "Lake",
+    "geoid": "US-12069",
+    "cases": 5
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "FL DOH",
+    "region": "Lee",
+    "geoid": "US-12071",
+    "cases": 14
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "FL DOH",
+    "region": "Leon",
+    "geoid": "US-12073",
+    "cases": 8
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "FL DOH",
+    "region": "Marion",
+    "geoid": "US-12083",
+    "cases": 4
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "FL DOH",
+    "region": "Martin",
+    "geoid": "US-12085",
+    "cases": 5
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "FL DOH",
+    "region": "Miami-Dade",
+    "geoid": "US-12086",
+    "cases": 668
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "FL DOH",
+    "region": "Monroe",
+    "geoid": "US-12087",
+    "cases": 18
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "FL DOH",
+    "region": "Orange",
+    "geoid": "US-12095",
+    "cases": 135
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "FL DOH",
+    "region": "Osceola",
+    "geoid": "US-12097",
+    "cases": 17
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "FL DOH",
+    "region": "Palm Beach",
+    "geoid": "US-12099",
+    "cases": 82
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "FL DOH",
+    "region": "Pasco",
+    "geoid": "US-12101",
+    "cases": 8
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "FL DOH",
+    "region": "Pinellas",
+    "geoid": "US-12103",
+    "cases": 79
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "FL DOH",
+    "region": "Polk",
+    "geoid": "US-12105",
+    "cases": 7
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "FL DOH",
+    "region": "Santa Rosa",
+    "geoid": "US-12113",
+    "cases": 2
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "FL DOH",
+    "region": "Sarasota",
+    "geoid": "US-12115",
+    "cases": 2
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "FL DOH",
+    "region": "Seminole",
+    "geoid": "US-12117",
+    "cases": 19
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "FL DOH",
+    "region": "St. Johns",
+    "geoid": "US-12109",
+    "cases": 2
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "FL DOH",
+    "region": "St. Lucie",
+    "geoid": "US-12111",
+    "cases": 7
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "FL DOH",
+    "region": "Volusia",
+    "geoid": "US-12127",
+    "cases": 7
+  }
+]
