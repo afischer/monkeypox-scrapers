@@ -1093,3 +1093,161 @@ date,geoid,country,region,region_type,cases,source_name
 2022-08-28,US-56,United States,Wyoming,state,1,CDC
 2022-08-28,US-72,United States,Puerto Rico,state,97,CDC
 2022-08-28,US-NONRESIDENT,United States,Non-US Resident,state,3,CDC
+
+2022-08-29,US,United States,,country,18101,CDC
+2022-08-29,US-01,United States,Alabama,state,59,CDC
+2022-08-29,US-02,United States,Alaska,state,3,CDC
+2022-08-29,US-04,United States,Arizona,state,281,CDC
+2022-08-29,US-05,United States,Arkansas,state,32,CDC
+2022-08-29,US-06,United States,California,state,3369,CA CPDH
+2022-08-29,US-06,United States,California,state,3291,CDC
+2022-08-29,US-06001,United States,Alameda,county,183,CA CPDH
+2022-08-29,US-06007,United States,Butte,county,4,CA CPDH
+2022-08-29,US-06013,United States,Contra Costa,county,64,CA CPDH
+2022-08-29,US-06017,United States,El Dorado,county,1,CA CPDH
+2022-08-29,US-06019,United States,Fresno,county,17,CA CPDH
+2022-08-29,US-06023,United States,Humboldt,county,1,CA CPDH
+2022-08-29,US-06025,United States,Imperial,county,2,CA CPDH
+2022-08-29,US-06029,United States,Kern,county,9,CA CPDH
+2022-08-29,US-06037,United States,Los Angeles,county,1346,CA CPDH
+2022-08-29,US-06041,United States,Marin,county,16,CA CPDH
+2022-08-29,US-06053,United States,Monterey,county,13,CA CPDH
+2022-08-29,US-06055,United States,Napa,county,4,CA CPDH
+2022-08-29,US-06059,United States,Orange,county,127,CA CPDH
+2022-08-29,US-0606000,United States,Berkeley,city,14,CA CPDH
+2022-08-29,US-06061,United States,Placer,county,8,CA CPDH
+2022-08-29,US-06065,United States,Riverside,county,172,CA CPDH
+2022-08-29,US-06067,United States,Sacramento,county,116,CA CPDH
+2022-08-29,US-06069,United States,San Benito,county,1,CA CPDH
+2022-08-29,US-06071,United States,San Bernardino,county,44,CA CPDH
+2022-08-29,US-06073,United States,San Diego,county,241,CA CPDH
+2022-08-29,US-06075,United States,San Francisco,county,696,CA CPDH
+2022-08-29,US-06077,United States,San Joaquin,county,15,CA CPDH
+2022-08-29,US-06079,United States,San Luis Obispo,county,1,CA CPDH
+2022-08-29,US-06081,United States,San Mateo,county,52,CA CPDH
+2022-08-29,US-06083,United States,Santa Barbara,county,6,CA CPDH
+2022-08-29,US-06085,United States,Santa Clara,county,124,CA CPDH
+2022-08-29,US-06087,United States,Santa Cruz,county,7,CA CPDH
+2022-08-29,US-06089,United States,Shasta,county,1,CA CPDH
+2022-08-29,US-06095,United States,Solano,county,23,CA CPDH
+2022-08-29,US-06097,United States,Sonoma,county,33,CA CPDH
+2022-08-29,US-06099,United States,Stanislaus,county,12,CA CPDH
+2022-08-29,US-06101,United States,Sutter,county,1,CA CPDH
+2022-08-29,US-06107,United States,Tulare,county,3,CA CPDH
+2022-08-29,US-06111,United States,Ventura,county,20,CA CPDH
+2022-08-29,US-06113,United States,Yolo,county,1,CA CPDH
+2022-08-29,US-06115,United States,Yuba,county,1,CA CPDH
+2022-08-29,US-0643000,United States,Long Beach,city,65,CA CPDH
+2022-08-29,US-0656000,United States,Pasadena,city,18,CA CPDH
+2022-08-29,US-08,United States,Colorado,state,189,CDC
+2022-08-29,US-09,United States,Connecticut,state,90,CDC
+2022-08-29,US-10,United States,Delaware,state,21,CDC
+2022-08-29,US-10,United States,District of Columbia,state,414,CDC
+2022-08-29,US-12,United States,Florida,state,1870,FL DOH
+2022-08-29,US-12,United States,Florida,state,1870,CDC
+2022-08-29,US-12001,United States,Alachua,county,3,FL DOH
+2022-08-29,US-12009,United States,Brevard,county,6,FL DOH
+2022-08-29,US-12011,United States,Broward,county,569,FL DOH
+2022-08-29,US-12015,United States,Charlotte,county,1,FL DOH
+2022-08-29,US-12017,United States,Citrus,county,1,FL DOH
+2022-08-29,US-12019,United States,Clay,county,5,FL DOH
+2022-08-29,US-12021,United States,Collier,county,4,FL DOH
+2022-08-29,US-12031,United States,Duval,county,25,FL DOH
+2022-08-29,US-12033,United States,Escambia,county,1,FL DOH
+2022-08-29,US-12035,United States,Flagler,county,1,FL DOH
+2022-08-29,US-12039,United States,Gadsden,county,3,FL DOH
+2022-08-29,US-12051,United States,Hendry,county,1,FL DOH
+2022-08-29,US-12057,United States,Hillsborough,county,121,FL DOH
+2022-08-29,US-12069,United States,Lake,county,6,FL DOH
+2022-08-29,US-12071,United States,Lee,county,14,FL DOH
+2022-08-29,US-12073,United States,Leon,county,9,FL DOH
+2022-08-29,US-12083,United States,Marion,county,4,FL DOH
+2022-08-29,US-12085,United States,Martin,county,5,FL DOH
+2022-08-29,US-12086,United States,Miami-Dade,county,694,FL DOH
+2022-08-29,US-12087,United States,Monroe,county,18,FL DOH
+2022-08-29,US-12095,United States,Orange,county,141,FL DOH
+2022-08-29,US-12097,United States,Osceola,county,18,FL DOH
+2022-08-29,US-12099,United States,Palm Beach,county,84,FL DOH
+2022-08-29,US-12101,United States,Pasco,county,8,FL DOH
+2022-08-29,US-12103,United States,Pinellas,county,81,FL DOH
+2022-08-29,US-12105,United States,Polk,county,7,FL DOH
+2022-08-29,US-12109,United States,St. Johns,county,2,FL DOH
+2022-08-29,US-12111,United States,St. Lucie,county,8,FL DOH
+2022-08-29,US-12113,United States,Santa Rosa,county,2,FL DOH
+2022-08-29,US-12115,United States,Sarasota,county,2,FL DOH
+2022-08-29,US-12117,United States,Seminole,county,19,FL DOH
+2022-08-29,US-12127,United States,Volusia,county,7,FL DOH
+2022-08-29,US-13,United States,Georgia,state,1372,CDC
+2022-08-29,US-15,United States,Hawaii,state,18,CDC
+2022-08-29,US-16,United States,Idaho,state,9,CDC
+2022-08-29,US-17,United States,Illinois,state,1049,CDC
+2022-08-29,US-18,United States,Indiana,state,162,CDC
+2022-08-29,US-19,United States,Iowa,state,18,CDC
+2022-08-29,US-20,United States,Kansas,state,5,CDC
+2022-08-29,US-21,United States,Kentucky,state,30,CDC
+2022-08-29,US-22,United States,Louisiana,state,176,CDC
+2022-08-29,US-23,United States,Maine,state,5,CDC
+2022-08-29,US-24,United States,Maryland,state,484,CDC
+2022-08-29,US-25,United States,Massachusetts,state,280,CDC
+2022-08-29,US-26,United States,Michigan,state,165,CDC
+2022-08-29,US-27,United States,Minnesota,state,116,CDC
+2022-08-29,US-28,United States,Mississippi,state,30,CDC
+2022-08-29,US-29,United States,Missouri,state,47,CDC
+2022-08-29,US-30,United States,Montana,state,3,CDC
+2022-08-29,US-31,United States,Nebraska,state,26,CDC
+2022-08-29,US-32,United States,Nevada,state,132,CDC
+2022-08-29,US-33,United States,New Hampshire,state,19,CDC
+2022-08-29,US-34,United States,New Jersey,state,504,CDC
+2022-08-29,US-35,United States,New Mexico,state,25,CDC
+2022-08-29,US-36,United States,New York,state,3197,NY DOH
+2022-08-29,US-36,United States,New York,state,3197,CDC
+2022-08-29,US-36001,United States,Albany,county,4,NY DOH
+2022-08-29,US-36005,United States,Bronx,county,493,NYC DOH
+2022-08-29,US-36007,United States,Broome,county,2,NY DOH
+2022-08-29,US-36015,United States,Chemung,county,1,NY DOH
+2022-08-29,US-36021,United States,Columbia,county,2,NY DOH
+2022-08-29,US-36025,United States,Delaware,county,1,NY DOH
+2022-08-29,US-36027,United States,Dutchess,county,10,NY DOH
+2022-08-29,US-36029,United States,Erie,county,12,NY DOH
+2022-08-29,US-36039,United States,Greene,county,2,NY DOH
+2022-08-29,US-36047,United States,Kings,county,661,NYC DOH
+2022-08-29,US-36055,United States,Monroe,county,7,NY DOH
+2022-08-29,US-36059,United States,Nassau,county,38,NY DOH
+2022-08-29,US-36061,United States,New York,county,1211,NYC DOH
+2022-08-29,US-36063,United States,Niagara,county,2,NY DOH
+2022-08-29,US-36067,United States,Onondaga,county,1,NY DOH
+2022-08-29,US-36071,United States,Orange,county,8,NY DOH
+2022-08-29,US-36079,United States,Putnam,county,2,NY DOH
+2022-08-29,US-36081,United States,Queens,county,419,NYC DOH
+2022-08-29,US-36085,United States,Richmond,county,23,NYC DOH
+2022-08-29,US-36087,United States,Rockland,county,8,NY DOH
+2022-08-29,US-36089,United States,St. Lawrence,county,1,NY DOH
+2022-08-29,US-36093,United States,Schenectady,county,1,NY DOH
+2022-08-29,US-36099,United States,Seneca,county,1,NY DOH
+2022-08-29,US-36103,United States,Suffolk,county,46,NY DOH
+2022-08-29,US-36105,United States,Sullivan,county,3,NY DOH
+2022-08-29,US-36107,United States,Tioga,county,1,NY DOH
+2022-08-29,US-36109,United States,Tompkins,county,3,NY DOH
+2022-08-29,US-36111,United States,Ulster,county,2,NY DOH
+2022-08-29,US-36119,United States,Westchester,county,80,NY DOH
+2022-08-29,US-3651000,United States,New York City,city,2959,NY DOH
+2022-08-29,US-37,United States,North Carolina,state,308,CDC
+2022-08-29,US-38,United States,North Dakota,state,4,CDC
+2022-08-29,US-39,United States,Ohio,state,157,CDC
+2022-08-29,US-40,United States,Oklahoma,state,22,CDC
+2022-08-29,US-41,United States,Oregon,state,141,CDC
+2022-08-29,US-42,United States,Pennsylvania,state,516,CDC
+2022-08-29,US-44,United States,Rhode Island,state,42,CDC
+2022-08-29,US-45,United States,South Carolina,state,109,CDC
+2022-08-29,US-46,United States,South Dakota,state,2,CDC
+2022-08-29,US-47,United States,Tennessee,state,165,CDC
+2022-08-29,US-48,United States,Texas,state,1604,CDC
+2022-08-29,US-49,United States,Utah,state,99,CDC
+2022-08-29,US-50,United States,Vermont,state,3,CDC
+2022-08-29,US-51,United States,Virginia,state,302,CDC
+2022-08-29,US-53,United States,Washington,state,332,CDC
+2022-08-29,US-54,United States,West Virginia,state,5,CDC
+2022-08-29,US-55,United States,Wisconsin,state,56,CDC
+2022-08-29,US-56,United States,Wyoming,state,2,CDC
+2022-08-29,US-72,United States,Puerto Rico,state,107,CDC
+2022-08-29,US-NONRESIDENT,United States,Non-US Resident,state,3,CDC
