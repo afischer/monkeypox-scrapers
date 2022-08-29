@@ -149,7 +149,7 @@
     "source_name": "NY DOH",
     "region": "Suffolk",
     "geoid": "US-36103",
-    "cases": 45
+    "cases": 46
   },
   {
     "country": "United States",
@@ -189,7 +189,7 @@
     "source_name": "NY DOH",
     "region": "Westchester",
     "geoid": "US-36119",
-    "cases": 79
+    "cases": 80
   },
   {
     "country": "United States",
@@ -197,7 +197,7 @@
     "source_name": "NY DOH",
     "region": "New York City",
     "geoid": "US-3651000",
-    "cases": 2888
+    "cases": 2959
   },
   {
     "country": "United States",
@@ -205,6 +205,6 @@
     "source_name": "NY DOH",
     "region": "New York",
     "geoid": "US-36",
-    "cases": 3124
+    "cases": 3197
   }
 ]
