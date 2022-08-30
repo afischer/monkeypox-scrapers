@@ -69,7 +69,7 @@
     "source_name": "NY DOH",
     "region": "Monroe",
     "geoid": "US-36055",
-    "cases": 7
+    "cases": 8
   },
   {
     "country": "United States",
@@ -77,7 +77,7 @@
     "source_name": "NY DOH",
     "region": "Nassau",
     "geoid": "US-36059",
-    "cases": 38
+    "cases": 39
   },
   {
     "country": "United States",
@@ -149,7 +149,7 @@
     "source_name": "NY DOH",
     "region": "Suffolk",
     "geoid": "US-36103",
-    "cases": 46
+    "cases": 48
   },
   {
     "country": "United States",
@@ -189,7 +189,7 @@
     "source_name": "NY DOH",
     "region": "Westchester",
     "geoid": "US-36119",
-    "cases": 80
+    "cases": 81
   },
   {
     "country": "United States",
@@ -205,6 +205,6 @@
     "source_name": "NY DOH",
     "region": "New York",
     "geoid": "US-36",
-    "cases": 3197
+    "cases": 3202
   }
 ]
