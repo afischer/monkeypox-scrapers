@@ -3,7 +3,7 @@ import cheerio from "cheerio";
 import { RegionType, ScrapeItem, Scraper } from "./scraper";
 import { getFIPSByCountyName } from "./util";
 
-export default class US_NY implements Scraper {
+export default class US_FL implements Scraper {
   async run() {
     // using all acquired statuses, confirmed+probable; all cases currently in FL
     // CDC seems to be counting out of country cases in their total

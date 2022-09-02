@@ -8,6 +8,10 @@ const run = async () => {
   const ScraperToRun = require(`./scrapers/${scraperName}`).default;
   const scraper = new ScraperToRun();
   const data = await scraper.run();
+  
+  if (!data || data.length < 2) {
+    throw new Error(`Missing data for scraper ${scraperName}!`)
+  }
 
   // apped timestamp to data;
   // data.forEach((entry: ScrapeItem & {timestamp: string}) => { entry.timestamp = runTimestamp });
