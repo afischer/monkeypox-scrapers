@@ -5,7 +5,7 @@
     "source_name": "CA CPDH",
     "region": "Los Angeles",
     "geoid": "US-06037",
-    "cases": 1509
+    "cases": 1619
   },
   {
     "country": "United States",
@@ -13,7 +13,7 @@
     "source_name": "CA CPDH",
     "region": "San Francisco",
     "geoid": "US-06075",
-    "cases": 713
+    "cases": 732
   },
   {
     "country": "United States",
@@ -21,7 +21,7 @@
     "source_name": "CA CPDH",
     "region": "San Diego",
     "geoid": "US-06073",
-    "cases": 248
+    "cases": 289
   },
   {
     "country": "United States",
@@ -29,7 +29,7 @@
     "source_name": "CA CPDH",
     "region": "Riverside",
     "geoid": "US-06065",
-    "cases": 176
+    "cases": 202
   },
   {
     "country": "United States",
@@ -37,7 +37,7 @@
     "source_name": "CA CPDH",
     "region": "Alameda",
     "geoid": "US-06001",
-    "cases": 189
+    "cases": 197
   },
   {
     "country": "United States",
@@ -45,7 +45,7 @@
     "source_name": "CA CPDH",
     "region": "Orange",
     "geoid": "US-06059",
-    "cases": 142
+    "cases": 161
   },
   {
     "country": "United States",
@@ -53,7 +53,7 @@
     "source_name": "CA CPDH",
     "region": "Santa Clara",
     "geoid": "US-06085",
-    "cases": 129
+    "cases": 138
   },
   {
     "country": "United States",
@@ -61,7 +61,7 @@
     "source_name": "CA CPDH",
     "region": "Sacramento",
     "geoid": "US-06067",
-    "cases": 121
+    "cases": 124
   },
   {
     "country": "United States",
@@ -69,7 +69,7 @@
     "source_name": "CA CPDH",
     "region": "Long Beach",
     "geoid": "US-0643000",
-    "cases": 70
+    "cases": 84
   },
   {
     "country": "United States",
@@ -77,7 +77,7 @@
     "source_name": "CA CPDH",
     "region": "Contra Costa",
     "geoid": "US-06013",
-    "cases": 65
+    "cases": 72
   },
   {
     "country": "United States",
@@ -85,7 +85,7 @@
     "source_name": "CA CPDH",
     "region": "San Mateo",
     "geoid": "US-06081",
-    "cases": 59
+    "cases": 62
   },
   {
     "country": "United States",
@@ -93,7 +93,7 @@
     "source_name": "CA CPDH",
     "region": "San Bernardino",
     "geoid": "US-06071",
-    "cases": 50
+    "cases": 56
   },
   {
     "country": "United States",
@@ -101,7 +101,7 @@
     "source_name": "CA CPDH",
     "region": "Sonoma",
     "geoid": "US-06097",
-    "cases": 35
+    "cases": 37
   },
   {
     "country": "United States",
@@ -109,7 +109,7 @@
     "source_name": "CA CPDH",
     "region": "Solano",
     "geoid": "US-06095",
-    "cases": 24
+    "cases": 28
   },
   {
     "country": "United States",
@@ -141,7 +141,7 @@
     "source_name": "CA CPDH",
     "region": "Pasadena",
     "geoid": "US-0656000",
-    "cases": 18
+    "cases": 19
   },
   {
     "country": "United States",
@@ -165,7 +165,7 @@
     "source_name": "CA CPDH",
     "region": "Monterey",
     "geoid": "US-06053",
-    "cases": 13
+    "cases": 15
   },
   {
     "country": "United States",
@@ -179,6 +179,14 @@
     "country": "United States",
     "region_type": "county",
     "source_name": "CA CPDH",
+    "region": "Placer",
+    "geoid": "US-06061",
+    "cases": 11
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "CA CPDH",
     "region": "Kern",
     "geoid": "US-06029",
     "cases": 9
@@ -187,17 +195,9 @@
     "country": "United States",
     "region_type": "county",
     "source_name": "CA CPDH",
-    "region": "Placer",
-    "geoid": "US-06061",
-    "cases": 8
-  },
-  {
-    "country": "United States",
-    "region_type": "county",
-    "source_name": "CA CPDH",
     "region": "Santa Barbara",
     "geoid": "US-06083",
-    "cases": 7
+    "cases": 9
   },
   {
     "country": "United States",
@@ -205,7 +205,7 @@
     "source_name": "CA CPDH",
     "region": "Santa Cruz",
     "geoid": "US-06087",
-    "cases": 7
+    "cases": 8
   },
   {
     "country": "United States",
@@ -227,6 +227,22 @@
     "country": "United States",
     "region_type": "county",
     "source_name": "CA CPDH",
+    "region": "Yolo",
+    "geoid": "US-06113",
+    "cases": 4
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "CA CPDH",
+    "region": "Imperial",
+    "geoid": "US-06025",
+    "cases": 3
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "CA CPDH",
     "region": "Tulare",
     "geoid": "US-06107",
     "cases": 3
@@ -235,8 +251,8 @@
     "country": "United States",
     "region_type": "county",
     "source_name": "CA CPDH",
-    "region": "Imperial",
-    "geoid": "US-06025",
+    "region": "El Dorado",
+    "geoid": "US-06017",
     "cases": 2
   },
   {
@@ -251,8 +267,8 @@
     "country": "United States",
     "region_type": "county",
     "source_name": "CA CPDH",
-    "region": "El Dorado",
-    "geoid": "US-06017",
+    "region": "San Luis Obispo",
+    "geoid": "US-06079",
     "cases": 1
   },
   {
@@ -267,16 +283,16 @@
     "country": "United States",
     "region_type": "county",
     "source_name": "CA CPDH",
-    "region": "San Luis Obispo",
-    "geoid": "US-06079",
+    "region": "Lake",
+    "geoid": "US-06033",
     "cases": 1
   },
   {
     "country": "United States",
     "region_type": "county",
     "source_name": "CA CPDH",
-    "region": "Yolo",
-    "geoid": "US-06113",
+    "region": "Mendocino",
+    "geoid": "US-06045",
     "cases": 1
   },
   {
@@ -291,16 +307,16 @@
     "country": "United States",
     "region_type": "county",
     "source_name": "CA CPDH",
-    "region": "Sutter",
-    "geoid": "US-06101",
+    "region": "Yuba",
+    "geoid": "US-06115",
     "cases": 1
   },
   {
     "country": "United States",
     "region_type": "county",
     "source_name": "CA CPDH",
-    "region": "Yuba",
-    "geoid": "US-06115",
+    "region": "Sutter",
+    "geoid": "US-06101",
     "cases": 1
   },
   {
@@ -309,6 +325,6 @@
     "source_name": "CA CPDH",
     "region": "California",
     "geoid": "US-06",
-    "cases": 3624
+    "cases": 3897
   }
 ]
