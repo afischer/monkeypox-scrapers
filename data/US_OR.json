@@ -1,0 +1,74 @@
+[
+  {
+    "country": "United States",
+    "region_type": "state",
+    "source_name": "OHA",
+    "region": "Oregon",
+    "geoid": "US-41",
+    "cases": 169
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "OHA",
+    "region": "Clackamas",
+    "geoid": "US-41005",
+    "cases": 5
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "OHA",
+    "region": "Columbia",
+    "geoid": "US-41009",
+    "cases": 2
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "OHA",
+    "region": "Coos",
+    "geoid": "US-41011",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "OHA",
+    "region": "Lane",
+    "geoid": "US-41039",
+    "cases": 21
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "OHA",
+    "region": "Marion",
+    "geoid": "US-41047",
+    "cases": 2
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "OHA",
+    "region": "Multnomah",
+    "geoid": "US-41051",
+    "cases": 119
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "OHA",
+    "region": "Union",
+    "geoid": "US-41061",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "OHA",
+    "region": "Washington",
+    "geoid": "US-41067",
+    "cases": 18
+  }
+]
