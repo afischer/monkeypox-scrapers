@@ -1,1 +1,63 @@
-# monkeypox-scrapers
+# Monkeypox Scrapers
+
+## Scrapers
+### US, States and Territories
+
+- [x] [US CDC](https://www.cdc.gov/wcms/vizdata/poxvirus/monkeypox/data/USmap_counts.csv)
+
+- [ ] Alabama
+- [ ] Alaska
+- [ ] Arizona
+- [ ] Arkansas
+- [x] [California](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Monkeypox-Data.aspx)
+- [ ] Colorado
+- [ ] Connecticut
+- [ ] Delaware
+- [x] [Florida](https://www.flhealthcharts.gov/ChartsReports/rdPage.aspx?rdReport=FrequencyMerlin.Frequency)
+- [ ] Georgia
+- [ ] Hawaii
+- [ ] Idaho
+- [ ] Illinois
+- [ ] Indiana
+- [ ] Iowa
+- [ ] Kansas
+- [ ] Kentucky
+- [ ] Louisiana
+- [ ] Maine
+- [ ] Maryland
+- [ ] Massachusetts
+- [ ] [Michigan](https://www.michigan.gov/mdhhs/keep-mi-healthy/communicablediseases/diseasesandimmunization/mpv)
+- [ ] Minnesota
+- [ ] Mississippi
+- [ ] Missouri
+- [ ] Montana
+- [ ] Nebraska
+- [ ] Nevada
+- [ ] New Hampshire
+- [ ] [New Jersey](https://dashboards.doh.nj.gov/views/mpxdailycount-publicdiscussion8aug2022pmserver/NJMPXDashboard?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link&:isGuestRedirectFromVizportal=y&:embed=y&_gl=1*142cvyw*_ga*MTM2NzM5MjU3Ni4xNjU5NTUyMDM5*_ga_5PWJJG6642*MTY2MDc0NzY3OC44LjAuMTY2MDc0NzY3OC4wLjAuMA..) Tableau :(
+- [ ] New Mexico
+- [x] [New York](https://www.health.ny.gov/diseases/communicable/zoonoses/monkeypox/)
+  - [x] [New York City](https://raw.githubusercontent.com/nychealth/monkeypox-data/main/totals/summary-cases.csv)
+- [ ] North Carolina
+- [ ] North Dakota
+- [ ] [Ohio](https://public.tableau.com/views/Monkeypox_16613580688470/Cases?:embed=y&:showVizHome=no) Tableau :(
+- [ ] Oklahoma
+- [x] [Oregon](https://www.oregon.gov/oha/ph/monkeypox/Pages/index.aspx)
+- [ ] Pennsylvania
+- [ ] Rhode Island
+- [ ] South Carolina
+- [ ] South Dakota
+- [ ] Tennessee
+- [ ] ~Texas~ Only reporting by health district
+- [ ] Utah
+- [ ] Vermont
+- [ ] Virginia[D]
+- [x] [Washington](https://doh.wa.gov/you-and-your-family/illness-and-disease-z/monkeypox/monkeypox-mpv-data)
+- [ ] West Virginia
+- [ ] Wisconsin
+- [ ] Wyoming
+- [ ] American Samoa
+- [ ] Guam
+- [ ] Northern Mariana Islands
+- [ ] Puerto Rico
+- [ ] U.S. Virgin Islands
