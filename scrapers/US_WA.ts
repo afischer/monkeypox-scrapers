@@ -6,14 +6,14 @@ import { getFIPSByCountyName } from "./util";
 export default class US_WA implements Scraper {
   async run() {
     const { data } = await axios.get(
-      "https://doh.wa.gov/you-and-your-family/illness-and-disease-z/monkeypox"
+      "https://doh.wa.gov/you-and-your-family/illness-and-disease-z/monkeypox/monkeypox-mpv-data"
     );
 
     const $ = cheerio.load(data);
 
-    const entries: ScrapeItem[] = [];
+    const entries: ScrapeItem[] = [];    
 
-    $("table.tablesaw.tablesaw-stack tbody tr").each((i, el) => {
+    $("table.tablesaw.tablesaw-stack:first-of-type tbody tr").each((i, el) => {
       const data = $(el).find("td");
       if (data.length !== 2) throw new Error("Unknown columns found");
 
@@ -21,7 +21,7 @@ export default class US_WA implements Scraper {
 
       const fips =
         countyName.toLowerCase().startsWith("total") ? "53" : getFIPSByCountyName(countyName, "WA");
-
+        
       if (!countyName || !fips) {
         throw new Error(`Unknown county ${countyName} fips ${fips}!`);
       }
