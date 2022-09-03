@@ -4,7 +4,6 @@
 ### US, States and Territories
 
 - [x] [US CDC](https://www.cdc.gov/wcms/vizdata/poxvirus/monkeypox/data/USmap_counts.csv)
-
 - [ ] Alabama
 - [ ] Alaska
 - [ ] Arizona
