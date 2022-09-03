@@ -1,0 +1,138 @@
+[
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MDDHS",
+    "region": "Bay",
+    "geoid": "US-26017",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "city",
+    "source_name": "MDDHS",
+    "region": "Detroit City",
+    "geoid": "US-2622000",
+    "cases": 63
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MDDHS",
+    "region": "Genesee",
+    "geoid": "US-26049",
+    "cases": 2
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MDDHS",
+    "region": "Ingham",
+    "geoid": "US-26065",
+    "cases": 5
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MDDHS",
+    "region": "Ionia",
+    "geoid": "US-26067",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MDDHS",
+    "region": "Jackson",
+    "geoid": "US-26075",
+    "cases": 2
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MDDHS",
+    "region": "Kent",
+    "geoid": "US-26081",
+    "cases": 12
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MDDHS",
+    "region": "Livingston",
+    "geoid": "US-26093",
+    "cases": 2
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MDDHS",
+    "region": "Macomb",
+    "geoid": "US-26099",
+    "cases": 24
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MDDHS",
+    "region": "Montcalm",
+    "geoid": "US-26117",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MDDHS",
+    "region": "Muskegon",
+    "geoid": "US-26121",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MDDHS",
+    "region": "Oakland",
+    "geoid": "US-26125",
+    "cases": 37
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MDDHS",
+    "region": "Ottawa",
+    "geoid": "US-26139",
+    "cases": 5
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MDDHS",
+    "region": "St. Clair",
+    "geoid": "US-26147",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MDDHS",
+    "region": "Washtenaw",
+    "geoid": "US-26161",
+    "cases": 13
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MDDHS",
+    "region": "Wayne",
+    "geoid": "US-26163",
+    "cases": 92
+  },
+  {
+    "country": "United States",
+    "region_type": "state",
+    "source_name": "MDDHS",
+    "region": "Michigan",
+    "geoid": "US-26",
+    "cases": 199
+  }
+]
