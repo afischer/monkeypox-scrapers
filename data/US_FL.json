@@ -5,7 +5,7 @@
     "source_name": "FL DOH",
     "region": "Florida",
     "geoid": "US-12",
-    "cases": 2050
+    "cases": 2056
   },
   {
     "country": "United States",
@@ -29,7 +29,7 @@
     "source_name": "FL DOH",
     "region": "Broward",
     "geoid": "US-12011",
-    "cases": 603
+    "cases": 604
   },
   {
     "country": "United States",
@@ -189,7 +189,7 @@
     "source_name": "FL DOH",
     "region": "Miami-Dade",
     "geoid": "US-12086",
-    "cases": 733
+    "cases": 735
   },
   {
     "country": "United States",
@@ -205,7 +205,7 @@
     "source_name": "FL DOH",
     "region": "Orange",
     "geoid": "US-12095",
-    "cases": 167
+    "cases": 168
   },
   {
     "country": "United States",
@@ -221,7 +221,7 @@
     "source_name": "FL DOH",
     "region": "Palm Beach",
     "geoid": "US-12099",
-    "cases": 89
+    "cases": 91
   },
   {
     "country": "United States",
@@ -237,7 +237,7 @@
     "source_name": "FL DOH",
     "region": "Pinellas",
     "geoid": "US-12103",
-    "cases": 95
+    "cases": 96
   },
   {
     "country": "United States",
@@ -269,7 +269,7 @@
     "source_name": "FL DOH",
     "region": "Seminole",
     "geoid": "US-12117",
-    "cases": 26
+    "cases": 25
   },
   {
     "country": "United States",
