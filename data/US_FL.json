@@ -5,7 +5,7 @@
     "source_name": "FL DOH",
     "region": "Florida",
     "geoid": "US-12",
-    "cases": 2056
+    "cases": 2094
   },
   {
     "country": "United States",
@@ -29,7 +29,7 @@
     "source_name": "FL DOH",
     "region": "Broward",
     "geoid": "US-12011",
-    "cases": 604
+    "cases": 609
   },
   {
     "country": "United States",
@@ -69,7 +69,7 @@
     "source_name": "FL DOH",
     "region": "Duval",
     "geoid": "US-12031",
-    "cases": 27
+    "cases": 28
   },
   {
     "country": "United States",
@@ -109,7 +109,7 @@
     "source_name": "FL DOH",
     "region": "Hillsborough",
     "geoid": "US-12057",
-    "cases": 138
+    "cases": 145
   },
   {
     "country": "United States",
@@ -165,7 +165,7 @@
     "source_name": "FL DOH",
     "region": "Manatee",
     "geoid": "US-12081",
-    "cases": 1
+    "cases": 2
   },
   {
     "country": "United States",
@@ -189,7 +189,7 @@
     "source_name": "FL DOH",
     "region": "Miami-Dade",
     "geoid": "US-12086",
-    "cases": 735
+    "cases": 747
   },
   {
     "country": "United States",
@@ -205,7 +205,7 @@
     "source_name": "FL DOH",
     "region": "Orange",
     "geoid": "US-12095",
-    "cases": 168
+    "cases": 172
   },
   {
     "country": "United States",
@@ -237,7 +237,7 @@
     "source_name": "FL DOH",
     "region": "Pinellas",
     "geoid": "US-12103",
-    "cases": 96
+    "cases": 101
   },
   {
     "country": "United States",
@@ -245,7 +245,7 @@
     "source_name": "FL DOH",
     "region": "Polk",
     "geoid": "US-12105",
-    "cases": 11
+    "cases": 12
   },
   {
     "country": "United States",
@@ -261,7 +261,7 @@
     "source_name": "FL DOH",
     "region": "Sarasota",
     "geoid": "US-12115",
-    "cases": 3
+    "cases": 4
   },
   {
     "country": "United States",
@@ -293,6 +293,14 @@
     "source_name": "FL DOH",
     "region": "Sumter",
     "geoid": "US-12119",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "FL DOH",
+    "region": "Suwannee",
+    "geoid": "US-12121",
     "cases": 1
   },
   {
