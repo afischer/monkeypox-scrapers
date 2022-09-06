@@ -13,7 +13,7 @@
     "source_name": "MDDHS",
     "region": "Detroit City",
     "geoid": "US-2622000",
-    "cases": 63
+    "cases": 65
   },
   {
     "country": "United States",
@@ -69,7 +69,7 @@
     "source_name": "MDDHS",
     "region": "Macomb",
     "geoid": "US-26099",
-    "cases": 24
+    "cases": 25
   },
   {
     "country": "United States",
@@ -93,7 +93,7 @@
     "source_name": "MDDHS",
     "region": "Oakland",
     "geoid": "US-26125",
-    "cases": 37
+    "cases": 39
   },
   {
     "country": "United States",
@@ -125,7 +125,7 @@
     "source_name": "MDDHS",
     "region": "Wayne",
     "geoid": "US-26163",
-    "cases": 92
+    "cases": 94
   },
   {
     "country": "United States",
@@ -133,6 +133,6 @@
     "source_name": "MDDHS",
     "region": "Michigan",
     "geoid": "US-26",
-    "cases": 199
+    "cases": 204
   }
 ]
