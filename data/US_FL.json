@@ -5,7 +5,7 @@
     "source_name": "FL DOH",
     "region": "Florida",
     "geoid": "US-12",
-    "cases": 2126
+    "cases": 2148
   },
   {
     "country": "United States",
@@ -13,7 +13,7 @@
     "source_name": "FL DOH",
     "region": "Alachua",
     "geoid": "US-12001",
-    "cases": 7
+    "cases": 8
   },
   {
     "country": "United States",
@@ -29,7 +29,7 @@
     "source_name": "FL DOH",
     "region": "Broward",
     "geoid": "US-12011",
-    "cases": 618
+    "cases": 619
   },
   {
     "country": "United States",
@@ -67,9 +67,17 @@
     "country": "United States",
     "region_type": "county",
     "source_name": "FL DOH",
+    "region": "Dixie",
+    "geoid": "US-12029",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "FL DOH",
     "region": "Duval",
     "geoid": "US-12031",
-    "cases": 28
+    "cases": 30
   },
   {
     "country": "United States",
@@ -109,7 +117,7 @@
     "source_name": "FL DOH",
     "region": "Hillsborough",
     "geoid": "US-12057",
-    "cases": 149
+    "cases": 153
   },
   {
     "country": "United States",
@@ -131,17 +139,9 @@
     "country": "United States",
     "region_type": "county",
     "source_name": "FL DOH",
-    "region": "Lafayette",
-    "geoid": "US-12067",
-    "cases": 1
-  },
-  {
-    "country": "United States",
-    "region_type": "county",
-    "source_name": "FL DOH",
     "region": "Lake",
     "geoid": "US-12069",
-    "cases": 8
+    "cases": 9
   },
   {
     "country": "United States",
@@ -157,7 +157,7 @@
     "source_name": "FL DOH",
     "region": "Leon",
     "geoid": "US-12073",
-    "cases": 14
+    "cases": 16
   },
   {
     "country": "United States",
@@ -181,7 +181,7 @@
     "source_name": "FL DOH",
     "region": "Martin",
     "geoid": "US-12085",
-    "cases": 6
+    "cases": 5
   },
   {
     "country": "United States",
@@ -189,7 +189,7 @@
     "source_name": "FL DOH",
     "region": "Miami-Dade",
     "geoid": "US-12086",
-    "cases": 754
+    "cases": 760
   },
   {
     "country": "United States",
@@ -203,9 +203,17 @@
     "country": "United States",
     "region_type": "county",
     "source_name": "FL DOH",
+    "region": "Okaloosa",
+    "geoid": "US-12091",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "FL DOH",
     "region": "Orange",
     "geoid": "US-12095",
-    "cases": 176
+    "cases": 177
   },
   {
     "country": "United States",
@@ -213,7 +221,7 @@
     "source_name": "FL DOH",
     "region": "Osceola",
     "geoid": "US-12097",
-    "cases": 20
+    "cases": 21
   },
   {
     "country": "United States",
@@ -229,7 +237,7 @@
     "source_name": "FL DOH",
     "region": "Pasco",
     "geoid": "US-12101",
-    "cases": 11
+    "cases": 13
   },
   {
     "country": "United States",
@@ -237,7 +245,7 @@
     "source_name": "FL DOH",
     "region": "Pinellas",
     "geoid": "US-12103",
-    "cases": 103
+    "cases": 104
   },
   {
     "country": "United States",
@@ -309,14 +317,6 @@
     "source_name": "FL DOH",
     "region": "Volusia",
     "geoid": "US-12127",
-    "cases": 10
-  },
-  {
-    "country": "United States",
-    "region_type": "county",
-    "source_name": "FL DOH",
-    "region": "Wakulla",
-    "geoid": "US-12129",
-    "cases": 1
+    "cases": 11
   }
 ]
