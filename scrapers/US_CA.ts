@@ -17,7 +17,7 @@ export default class US_CA implements Scraper {
 
     // CITY/COUNTY CASES
     const countyTable = tables.filter((i, el) =>
-      $(el).text()?.includes("Local Health Jurisdiction")
+      $(el).text()?.includes("Jurisdiction")
     );
 
     // Some cities are their own "Local Health Jurisdictions," so we need to 
@@ -35,7 +35,8 @@ export default class US_CA implements Scraper {
     countyTable.find("tr").each((i, el) => {
       if (i === 0) return;
 
-      const data = $(el).find("td");
+      // la county listed as a header for some reason
+      const data = $(el).find("td, th");
 
       if (data.length !== 2) throw new Error("Unknown columns found");
 
