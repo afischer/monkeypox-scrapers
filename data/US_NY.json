@@ -101,7 +101,7 @@
     "source_name": "NY DOH",
     "region": "Orange",
     "geoid": "US-36071",
-    "cases": 9
+    "cases": 10
   },
   {
     "country": "United States",
@@ -149,7 +149,7 @@
     "source_name": "NY DOH",
     "region": "Suffolk",
     "geoid": "US-36103",
-    "cases": 58
+    "cases": 59
   },
   {
     "country": "United States",
@@ -197,7 +197,7 @@
     "source_name": "NY DOH",
     "region": "New York City",
     "geoid": "US-3651000",
-    "cases": 3214
+    "cases": 3239
   },
   {
     "country": "United States",
@@ -205,6 +205,6 @@
     "source_name": "NY DOH",
     "region": "New York",
     "geoid": "US-36",
-    "cases": 3485
+    "cases": 3512
   }
 ]
