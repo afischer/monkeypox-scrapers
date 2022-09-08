@@ -21,7 +21,7 @@
     "source_name": "MDDHS",
     "region": "Detroit City",
     "geoid": "US-2622000",
-    "cases": 68
+    "cases": 71
   },
   {
     "country": "United States",
@@ -133,7 +133,7 @@
     "source_name": "MDDHS",
     "region": "Wayne",
     "geoid": "US-26163",
-    "cases": 100
+    "cases": 103
   },
   {
     "country": "United States",
@@ -141,6 +141,6 @@
     "source_name": "MDDHS",
     "region": "Michigan",
     "geoid": "US-26",
-    "cases": 216
+    "cases": 219
   }
 ]
