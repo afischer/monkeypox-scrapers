@@ -5,7 +5,7 @@
     "source_name": "FL DOH",
     "region": "Florida",
     "geoid": "US-12",
-    "cases": 2158
+    "cases": 2193
   },
   {
     "country": "United States",
@@ -13,7 +13,7 @@
     "source_name": "FL DOH",
     "region": "Alachua",
     "geoid": "US-12001",
-    "cases": 8
+    "cases": 9
   },
   {
     "country": "United States",
@@ -29,7 +29,7 @@
     "source_name": "FL DOH",
     "region": "Broward",
     "geoid": "US-12011",
-    "cases": 623
+    "cases": 627
   },
   {
     "country": "United States",
@@ -117,7 +117,7 @@
     "source_name": "FL DOH",
     "region": "Hillsborough",
     "geoid": "US-12057",
-    "cases": 154
+    "cases": 160
   },
   {
     "country": "United States",
@@ -141,7 +141,7 @@
     "source_name": "FL DOH",
     "region": "Lake",
     "geoid": "US-12069",
-    "cases": 9
+    "cases": 10
   },
   {
     "country": "United States",
@@ -149,7 +149,7 @@
     "source_name": "FL DOH",
     "region": "Lee",
     "geoid": "US-12071",
-    "cases": 14
+    "cases": 15
   },
   {
     "country": "United States",
@@ -157,7 +157,7 @@
     "source_name": "FL DOH",
     "region": "Leon",
     "geoid": "US-12073",
-    "cases": 17
+    "cases": 18
   },
   {
     "country": "United States",
@@ -189,7 +189,7 @@
     "source_name": "FL DOH",
     "region": "Miami-Dade",
     "geoid": "US-12086",
-    "cases": 760
+    "cases": 767
   },
   {
     "country": "United States",
@@ -213,7 +213,7 @@
     "source_name": "FL DOH",
     "region": "Orange",
     "geoid": "US-12095",
-    "cases": 178
+    "cases": 184
   },
   {
     "country": "United States",
@@ -221,7 +221,7 @@
     "source_name": "FL DOH",
     "region": "Osceola",
     "geoid": "US-12097",
-    "cases": 21
+    "cases": 22
   },
   {
     "country": "United States",
@@ -237,7 +237,7 @@
     "source_name": "FL DOH",
     "region": "Pasco",
     "geoid": "US-12101",
-    "cases": 13
+    "cases": 14
   },
   {
     "country": "United States",
@@ -245,7 +245,7 @@
     "source_name": "FL DOH",
     "region": "Pinellas",
     "geoid": "US-12103",
-    "cases": 106
+    "cases": 111
   },
   {
     "country": "United States",
@@ -253,7 +253,7 @@
     "source_name": "FL DOH",
     "region": "Polk",
     "geoid": "US-12105",
-    "cases": 13
+    "cases": 14
   },
   {
     "country": "United States",
