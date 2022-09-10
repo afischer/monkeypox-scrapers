@@ -5,7 +5,7 @@
     "source_name": "WA DOH",
     "region": "King",
     "geoid": "US-53033",
-    "cases": 395
+    "cases": 401
   },
   {
     "country": "United States",
@@ -13,7 +13,7 @@
     "source_name": "WA DOH",
     "region": "Pierce",
     "geoid": "US-53053",
-    "cases": 39
+    "cases": 40
   },
   {
     "country": "United States",
@@ -21,7 +21,7 @@
     "source_name": "WA DOH",
     "region": "Snohomish",
     "geoid": "US-53061",
-    "cases": 18
+    "cases": 19
   },
   {
     "country": "United States",
@@ -123,6 +123,14 @@
     "country": "United States",
     "region_type": "county",
     "source_name": "WA DOH",
+    "region": "Thurston",
+    "geoid": "US-53067",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "WA DOH",
     "region": "Walla Walla",
     "geoid": "US-53071",
     "cases": 1
@@ -141,6 +149,6 @@
     "source_name": "WA DOH",
     "region": "Washington",
     "geoid": "US-53",
-    "cases": 488
+    "cases": 497
   }
 ]
