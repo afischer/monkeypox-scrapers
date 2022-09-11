@@ -1,4 +1,4 @@
-name: Scrape US_cdc
+name: Scrape 30m
 
 on:
   schedule:
@@ -25,6 +25,8 @@ jobs:
     - run: ./node_modules/.bin/ts-node runScraper.ts US_OR > data/US_OR.json
     - run: ./node_modules/.bin/ts-node runScraper.ts US_WA > data/US_WA.json
     - run: ./node_modules/.bin/ts-node runScraper.ts US_MI > data/US_MI.json
+    - run: ./node_modules/.bin/ts-node runScraper.ts US_ME > data/US_ME.json
+    - run: ./node_modules/.bin/ts-node runScraper.ts US_MN > data/US_MN.json
     - name: Commit and push changes
       run: |-
         git config user.name "Scraper"
