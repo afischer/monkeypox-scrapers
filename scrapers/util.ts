@@ -424,6 +424,24 @@ const countyFips: Record<string, Record<string, string>> = {
     // https://www2.census.gov/geo/docs/reference/codes/files/st26_mi_places.txt
     "detroit city": "2622000",
   },
+  ME: {
+    androscoggin: "23001",
+    aroostook: "23003",
+    cumberland: "23005",
+    franklin: "23007",
+    hancock: "23009",
+    kennebec: "23011",
+    knox: "23013",
+    lincoln: "23015",
+    oxford: "23017",
+    penobscot: "23019",
+    piscataquis: "23021",
+    sagadahoc: "23023",
+    somerset: "23025",
+    waldo: "23027",
+    washington: "23029",
+    york: "23031",
+  }
 };
 
 export function getFIPSByStateName(stateName: string): string {

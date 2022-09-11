@@ -17,18 +17,18 @@
 - [ ] Hawaii
 - [ ] Idaho
 - [ ] Illinois
-- [ ] Indiana
-- [ ] Iowa
+- [ ] [Indiana](https://www.in.gov/health/erc/infectious-disease-epidemiology/diseases-and-conditions-resource-page/monkeypox/monkeypox-dashboard/) Tableau, only PHDs
+- [ ] Iowa, only PHDs
 - [ ] Kansas
 - [ ] Kentucky
-- [ ] Louisiana
-- [ ] Maine
-- [ ] Maryland
-- [ ] Massachusetts
+- [ ] [Louisiana](https://ldh.la.gov/page/monkeypox) Tableau, only HDs
+- [x] [Maine](https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/zoonotic/monkeypox.shtml#cases)
+- [ ] [Maryland](https://health.maryland.gov/phpa/OIDEOR/Pages/monkeypox.aspx) todo!
+- [ ] Massachusetts, only in press releases
 - [ ] [Michigan](https://www.michigan.gov/mdhhs/keep-mi-healthy/communicablediseases/diseasesandimmunization/mpv)
-- [ ] Minnesota
-- [ ] Mississippi
-- [ ] Missouri
+- [ ] [Minnesota](https://www.health.state.mn.us/diseases/monkeypox/stats/index.html) todo
+- [ ] [Mississippi](https://msdh.ms.gov/msdhsite/_static/14,0,431.html) only by PHDs
+- [ ] Missouri, only in press releases
 - [ ] Montana
 - [ ] Nebraska
 - [ ] Nevada
@@ -37,7 +37,7 @@
 - [ ] New Mexico
 - [x] [New York](https://www.health.ny.gov/diseases/communicable/zoonoses/monkeypox/)
   - [x] [New York City](https://raw.githubusercontent.com/nychealth/monkeypox-data/main/totals/summary-cases.csv)
-- [ ] North Carolina
+- [ ] [North Carolina](https://www.ncdhhs.gov/divisions/public-health/monkeypox) no county counts
 - [ ] North Dakota
 - [ ] [Ohio](https://public.tableau.com/views/Monkeypox_16613580688470/Cases?:embed=y&:showVizHome=no) Tableau :(
 - [ ] Oklahoma
@@ -47,14 +47,14 @@
 - [ ] South Carolina
 - [ ] South Dakota
 - [ ] Tennessee
-- [ ] ~Texas~ Only reporting by health district
-- [ ] Utah
+- [ ] Texas, Only reporting by health district
+- [ ] [Utah](https://epi.health.utah.gov/monkeypox/) todo
 - [ ] Vermont
-- [ ] Virginia[D]
+- [ ] Virginia
 - [x] [Washington](https://doh.wa.gov/you-and-your-family/illness-and-disease-z/monkeypox/monkeypox-mpv-data)
 - [ ] West Virginia
-- [ ] Wisconsin
-- [ ] Wyoming
+- [ ] [Wisconsin](https://www.dhs.wisconsin.gov/outbreaks/index.htm) no county counts
+- [ ] [Wyoming](https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/monkeypox/) no county counts
 - [ ] American Samoa
 - [ ] Guam
 - [ ] Northern Mariana Islands
