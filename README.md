@@ -23,7 +23,7 @@
 - [ ] Kentucky
 - [ ] [Louisiana](https://ldh.la.gov/page/monkeypox) Tableau, only HDs
 - [x] [Maine](https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/zoonotic/monkeypox.shtml#cases)
-- [ ] [Maryland](https://health.maryland.gov/phpa/OIDEOR/Pages/monkeypox.aspx)
+- [x] [Maryland](https://health.maryland.gov/phpa/OIDEOR/Pages/monkeypox.aspx)
 - [ ] Massachusetts, only in press releases
 - [ ] [Michigan](https://www.michigan.gov/mdhhs/keep-mi-healthy/communicablediseases/diseasesandimmunization/mpv)
 - [x] [Minnesota](https://www.health.state.mn.us/diseases/monkeypox/stats/index.html)
