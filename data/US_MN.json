@@ -1,0 +1,706 @@
+[
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Aitkin",
+    "geoid": "US-27001",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Anoka",
+    "geoid": "US-27003",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Becker",
+    "geoid": "US-27005",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Beltrami",
+    "geoid": "US-27007",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Benton",
+    "geoid": "US-27009",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Big Stone",
+    "geoid": "US-27011",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Blue Earth",
+    "geoid": "US-27013",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Brown",
+    "geoid": "US-27015",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Carlton",
+    "geoid": "US-27017",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Carver",
+    "geoid": "US-27019",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Cass",
+    "geoid": "US-27021",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Chippewa",
+    "geoid": "US-27023",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Chisago",
+    "geoid": "US-27025",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Clay",
+    "geoid": "US-27027",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Clearwater",
+    "geoid": "US-27029",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Cook",
+    "geoid": "US-27031",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Cottonwood",
+    "geoid": "US-27033",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Crow Wing",
+    "geoid": "US-27035",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Dakota",
+    "geoid": "US-27037",
+    "cases": 9
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Dodge",
+    "geoid": "US-27039",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Douglas",
+    "geoid": "US-27041",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Faribault",
+    "geoid": "US-27043",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Fillmore",
+    "geoid": "US-27045",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Freeborn",
+    "geoid": "US-27047",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Goodhue",
+    "geoid": "US-27049",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Grant",
+    "geoid": "US-27051",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Hennepin",
+    "geoid": "US-27053",
+    "cases": 107
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Houston",
+    "geoid": "US-27055",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Hubbard",
+    "geoid": "US-27057",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Isanti",
+    "geoid": "US-27059",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Itasca",
+    "geoid": "US-27061",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Jackson",
+    "geoid": "US-27063",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Kanabec",
+    "geoid": "US-27065",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Kandiyohi",
+    "geoid": "US-27067",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Kittson",
+    "geoid": "US-27069",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Koochiching",
+    "geoid": "US-27071",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Lac Qui Parle",
+    "geoid": "US-27073",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Lake",
+    "geoid": "US-27075",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Lake of the Woods",
+    "geoid": "US-27077",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Le Sueur",
+    "geoid": "US-27079",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Lincoln",
+    "geoid": "US-27081",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Lyon",
+    "geoid": "US-27083",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Mahnomen",
+    "geoid": "US-27087",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Marshall",
+    "geoid": "US-27089",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Martin",
+    "geoid": "US-27091",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "McLeod",
+    "geoid": "US-27085",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Meeker",
+    "geoid": "US-27093",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Mille Lacs",
+    "geoid": "US-27095",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Morrison",
+    "geoid": "US-27097",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Mower",
+    "geoid": "US-27099",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Murray",
+    "geoid": "US-27101",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Nicollet",
+    "geoid": "US-27103",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Nobles",
+    "geoid": "US-27105",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Norman",
+    "geoid": "US-27107",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Olmsted",
+    "geoid": "US-27109",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Otter Tail",
+    "geoid": "US-27111",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Pennington",
+    "geoid": "US-27113",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Pine",
+    "geoid": "US-27115",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Pipestone",
+    "geoid": "US-27117",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Polk",
+    "geoid": "US-27119",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Pope",
+    "geoid": "US-27121",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Ramsey",
+    "geoid": "US-27123",
+    "cases": 19
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Red Lake",
+    "geoid": "US-27125",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Redwood",
+    "geoid": "US-27127",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Renville",
+    "geoid": "US-27129",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Rice",
+    "geoid": "US-27131",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Rock",
+    "geoid": "US-27133",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Roseau",
+    "geoid": "US-27135",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Scott",
+    "geoid": "US-27139",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Sherburne",
+    "geoid": "US-27141",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Sibley",
+    "geoid": "US-27143",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "St. Louis",
+    "geoid": "US-27137",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Stearns",
+    "geoid": "US-27145",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Steele",
+    "geoid": "US-27147",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Stevens",
+    "geoid": "US-27149",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Swift",
+    "geoid": "US-27151",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Todd",
+    "geoid": "US-27153",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Traverse",
+    "geoid": "US-27155",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Wabasha",
+    "geoid": "US-27157",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Wadena",
+    "geoid": "US-27159",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Waseca",
+    "geoid": "US-27161",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Washington",
+    "geoid": "US-27163",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Watonwan",
+    "geoid": "US-27165",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Wilkin",
+    "geoid": "US-27167",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Winona",
+    "geoid": "US-27169",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Wright",
+    "geoid": "US-27171",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MN DOH",
+    "region": "Yellow Medicine",
+    "geoid": "US-27173",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "state",
+    "source_name": "MN DOH",
+    "region": "Minnesotta",
+    "geoid": "US-27",
+    "cases": 153
+  }
+]

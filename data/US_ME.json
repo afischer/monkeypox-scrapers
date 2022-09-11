@@ -1,0 +1,58 @@
+[
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "ME DHHS",
+    "region": "Androscoggin",
+    "geoid": "US-23001",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "ME DHHS",
+    "region": "Aroostook",
+    "geoid": "US-23003",
+    "cases": 2
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "ME DHHS",
+    "region": "Cumberland",
+    "geoid": "US-23005",
+    "cases": 2
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "ME DHHS",
+    "region": "Hancock",
+    "geoid": "US-23009",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "ME DHHS",
+    "region": "Sagadahoc",
+    "geoid": "US-23023",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "ME DHHS",
+    "region": "York",
+    "geoid": "US-23031",
+    "cases": 3
+  },
+  {
+    "country": "United States",
+    "region_type": "state",
+    "source_name": "ME DHHS",
+    "region": "Maine",
+    "geoid": "US-23",
+    "cases": 10
+  }
+]
