@@ -53,7 +53,7 @@
     "source_name": "NY DOH",
     "region": "Erie",
     "geoid": "US-36029",
-    "cases": 14
+    "cases": 15
   },
   {
     "country": "United States",
@@ -77,7 +77,7 @@
     "source_name": "NY DOH",
     "region": "Nassau",
     "geoid": "US-36059",
-    "cases": 47
+    "cases": 49
   },
   {
     "country": "United States",
@@ -197,7 +197,7 @@
     "source_name": "NY DOH",
     "region": "New York City",
     "geoid": "US-3651000",
-    "cases": 3260
+    "cases": 3267
   },
   {
     "country": "United States",
@@ -205,6 +205,6 @@
     "source_name": "NY DOH",
     "region": "New York",
     "geoid": "US-36",
-    "cases": 3542
+    "cases": 3552
   }
 ]
