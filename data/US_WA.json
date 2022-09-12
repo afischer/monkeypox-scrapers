@@ -3,62 +3,6 @@
     "country": "United States",
     "region_type": "county",
     "source_name": "WA DOH",
-    "region": "King",
-    "geoid": "US-53033",
-    "cases": 401
-  },
-  {
-    "country": "United States",
-    "region_type": "county",
-    "source_name": "WA DOH",
-    "region": "Pierce",
-    "geoid": "US-53053",
-    "cases": 40
-  },
-  {
-    "country": "United States",
-    "region_type": "county",
-    "source_name": "WA DOH",
-    "region": "Snohomish",
-    "geoid": "US-53061",
-    "cases": 19
-  },
-  {
-    "country": "United States",
-    "region_type": "county",
-    "source_name": "WA DOH",
-    "region": "Clark",
-    "geoid": "US-53011",
-    "cases": 9
-  },
-  {
-    "country": "United States",
-    "region_type": "county",
-    "source_name": "WA DOH",
-    "region": "Spokane",
-    "geoid": "US-53063",
-    "cases": 7
-  },
-  {
-    "country": "United States",
-    "region_type": "county",
-    "source_name": "WA DOH",
-    "region": "Yakima",
-    "geoid": "US-53077",
-    "cases": 5
-  },
-  {
-    "country": "United States",
-    "region_type": "county",
-    "source_name": "WA DOH",
-    "region": "Kitsap",
-    "geoid": "US-53035",
-    "cases": 3
-  },
-  {
-    "country": "United States",
-    "region_type": "county",
-    "source_name": "WA DOH",
     "region": "Benton",
     "geoid": "US-53005",
     "cases": 2
@@ -67,9 +11,9 @@
     "country": "United States",
     "region_type": "county",
     "source_name": "WA DOH",
-    "region": "Lewis",
-    "geoid": "US-53041",
-    "cases": 2
+    "region": "Clark",
+    "geoid": "US-53011",
+    "cases": 9
   },
   {
     "country": "United States",
@@ -85,6 +29,14 @@
     "source_name": "WA DOH",
     "region": "Cowlitz",
     "geoid": "US-53015",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "WA DOH",
+    "region": "Grant",
+    "geoid": "US-53025",
     "cases": 1
   },
   {
@@ -107,9 +59,33 @@
     "country": "United States",
     "region_type": "county",
     "source_name": "WA DOH",
+    "region": "King",
+    "geoid": "US-53033",
+    "cases": 408
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "WA DOH",
+    "region": "Kitsap",
+    "geoid": "US-53035",
+    "cases": 3
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "WA DOH",
     "region": "Kittitas",
     "geoid": "US-53037",
     "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "WA DOH",
+    "region": "Lewis",
+    "geoid": "US-53041",
+    "cases": 2
   },
   {
     "country": "United States",
@@ -123,9 +99,33 @@
     "country": "United States",
     "region_type": "county",
     "source_name": "WA DOH",
+    "region": "Pierce",
+    "geoid": "US-53053",
+    "cases": 40
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "WA DOH",
+    "region": "Snohomish",
+    "geoid": "US-53061",
+    "cases": 19
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "WA DOH",
     "region": "Thurston",
     "geoid": "US-53067",
-    "cases": 1
+    "cases": 2
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "WA DOH",
+    "region": "Spokane",
+    "geoid": "US-53063",
+    "cases": 7
   },
   {
     "country": "United States",
@@ -147,8 +147,16 @@
     "country": "United States",
     "region_type": "county",
     "source_name": "WA DOH",
+    "region": "Yakima",
+    "geoid": "US-53077",
+    "cases": 5
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "WA DOH",
     "region": "Washington",
     "geoid": "US-53",
-    "cases": 497
+    "cases": 506
   }
 ]
