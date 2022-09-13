@@ -77,7 +77,7 @@
     "source_name": "NY DOH",
     "region": "Nassau",
     "geoid": "US-36059",
-    "cases": 49
+    "cases": 50
   },
   {
     "country": "United States",
@@ -101,7 +101,7 @@
     "source_name": "NY DOH",
     "region": "Orange",
     "geoid": "US-36071",
-    "cases": 10
+    "cases": 11
   },
   {
     "country": "United States",
@@ -117,7 +117,7 @@
     "source_name": "NY DOH",
     "region": "Rockland",
     "geoid": "US-36087",
-    "cases": 10
+    "cases": 12
   },
   {
     "country": "United States",
@@ -189,7 +189,7 @@
     "source_name": "NY DOH",
     "region": "Westchester",
     "geoid": "US-36119",
-    "cases": 84
+    "cases": 85
   },
   {
     "country": "United States",
@@ -197,7 +197,7 @@
     "source_name": "NY DOH",
     "region": "New York City",
     "geoid": "US-3651000",
-    "cases": 3267
+    "cases": 3339
   },
   {
     "country": "United States",
@@ -205,6 +205,6 @@
     "source_name": "NY DOH",
     "region": "New York",
     "geoid": "US-36",
-    "cases": 3552
+    "cases": 3629
   }
 ]
