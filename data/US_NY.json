@@ -69,7 +69,7 @@
     "source_name": "NY DOH",
     "region": "Monroe",
     "geoid": "US-36055",
-    "cases": 10
+    "cases": 11
   },
   {
     "country": "United States",
@@ -197,7 +197,7 @@
     "source_name": "NY DOH",
     "region": "New York City",
     "geoid": "US-3651000",
-    "cases": 3339
+    "cases": 3356
   },
   {
     "country": "United States",
@@ -205,6 +205,6 @@
     "source_name": "NY DOH",
     "region": "New York",
     "geoid": "US-36",
-    "cases": 3629
+    "cases": 3647
   }
 ]
