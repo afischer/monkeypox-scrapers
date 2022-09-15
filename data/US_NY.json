@@ -5,7 +5,7 @@
     "source_name": "NY DOH",
     "region": "Albany",
     "geoid": "US-36001",
-    "cases": 4
+    "cases": 5
   },
   {
     "country": "United States",
@@ -149,7 +149,7 @@
     "source_name": "NY DOH",
     "region": "Suffolk",
     "geoid": "US-36103",
-    "cases": 64
+    "cases": 66
   },
   {
     "country": "United States",
@@ -197,7 +197,7 @@
     "source_name": "NY DOH",
     "region": "New York City",
     "geoid": "US-3651000",
-    "cases": 3356
+    "cases": 3374
   },
   {
     "country": "United States",
@@ -205,6 +205,6 @@
     "source_name": "NY DOH",
     "region": "New York",
     "geoid": "US-36",
-    "cases": 3647
+    "cases": 3668
   }
 ]
