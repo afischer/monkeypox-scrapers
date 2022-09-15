@@ -35,7 +35,10 @@ export default class US_OR implements Scraper {
         const data = $(el).find("td");
         if (data.length !== 2) throw new Error("Unknown columns found");
 
-        let countyName = $(data[0]).text().trim();
+        let countyName = $(data[0])
+          .text()
+          .trim()
+          .replace(/[\u200B-\u200D\uFEFF]/g, "");
         
         const fips = getFIPSByCountyName(countyName, "OR");
 
