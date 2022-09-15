@@ -11,17 +11,17 @@
     "country": "United States",
     "region_type": "county",
     "source_name": "WA DOH",
-    "region": "Clark",
-    "geoid": "US-53011",
-    "cases": 9
+    "region": "Clallam",
+    "geoid": "US-53009",
+    "cases": 1
   },
   {
     "country": "United States",
     "region_type": "county",
     "source_name": "WA DOH",
-    "region": "Clallam",
-    "geoid": "US-53009",
-    "cases": 1
+    "region": "Clark",
+    "geoid": "US-53011",
+    "cases": 9
   },
   {
     "country": "United States",
@@ -61,7 +61,7 @@
     "source_name": "WA DOH",
     "region": "King",
     "geoid": "US-53033",
-    "cases": 408
+    "cases": 420
   },
   {
     "country": "United States",
@@ -101,7 +101,7 @@
     "source_name": "WA DOH",
     "region": "Pierce",
     "geoid": "US-53053",
-    "cases": 40
+    "cases": 42
   },
   {
     "country": "United States",
@@ -109,15 +109,7 @@
     "source_name": "WA DOH",
     "region": "Snohomish",
     "geoid": "US-53061",
-    "cases": 19
-  },
-  {
-    "country": "United States",
-    "region_type": "county",
-    "source_name": "WA DOH",
-    "region": "Thurston",
-    "geoid": "US-53067",
-    "cases": 2
+    "cases": 21
   },
   {
     "country": "United States",
@@ -126,6 +118,14 @@
     "region": "Spokane",
     "geoid": "US-53063",
     "cases": 7
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "WA DOH",
+    "region": "Thurston",
+    "geoid": "US-53067",
+    "cases": 1
   },
   {
     "country": "United States",
@@ -141,7 +141,7 @@
     "source_name": "WA DOH",
     "region": "Whatcom",
     "geoid": "US-53073",
-    "cases": 1
+    "cases": 2
   },
   {
     "country": "United States",
@@ -157,6 +157,6 @@
     "source_name": "WA DOH",
     "region": "Washington",
     "geoid": "US-53",
-    "cases": 506
+    "cases": 522
   }
 ]

@@ -5,7 +5,7 @@
     "source_name": "OHA",
     "region": "Oregon",
     "geoid": "US-41",
-    "cases": 179
+    "cases": 189
   },
   {
     "country": "United States",
@@ -13,7 +13,7 @@
     "source_name": "OHA",
     "region": "Clackamas",
     "geoid": "US-41005",
-    "cases": 5
+    "cases": 6
   },
   {
     "country": "United States",
@@ -35,9 +35,17 @@
     "country": "United States",
     "region_type": "county",
     "source_name": "OHA",
+    "region": "Hood River",
+    "geoid": "US-41027",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "OHA",
     "region": "Lane",
     "geoid": "US-41039",
-    "cases": 21
+    "cases": 22
   },
   {
     "country": "United States",
@@ -45,7 +53,7 @@
     "source_name": "OHA",
     "region": "Marion",
     "geoid": "US-41047",
-    "cases": 2
+    "cases": 5
   },
   {
     "country": "United States",
@@ -53,7 +61,7 @@
     "source_name": "OHA",
     "region": "Multnomah",
     "geoid": "US-41051",
-    "cases": 127
+    "cases": 129
   },
   {
     "country": "United States",
@@ -69,6 +77,6 @@
     "source_name": "OHA",
     "region": "Washington",
     "geoid": "US-41067",
-    "cases": 20
+    "cases": 22
   }
 ]

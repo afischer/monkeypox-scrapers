@@ -21,7 +21,7 @@
     "source_name": "MDDHS",
     "region": "Detroit City",
     "geoid": "US-2622000",
-    "cases": 77
+    "cases": 80
   },
   {
     "country": "United States",
@@ -141,7 +141,7 @@
     "source_name": "MDDHS",
     "region": "Washtenaw",
     "geoid": "US-26161",
-    "cases": 15
+    "cases": 17
   },
   {
     "country": "United States",
@@ -149,7 +149,7 @@
     "source_name": "MDDHS",
     "region": "Wayne",
     "geoid": "US-26163",
-    "cases": 110
+    "cases": 115
   },
   {
     "country": "United States",
@@ -157,6 +157,6 @@
     "source_name": "MDDHS",
     "region": "Michigan",
     "geoid": "US-26",
-    "cases": 237
+    "cases": 244
   }
 ]
