@@ -61,7 +61,7 @@
     "source_name": "WA DOH",
     "region": "King",
     "geoid": "US-53033",
-    "cases": 420
+    "cases": 429
   },
   {
     "country": "United States",
@@ -101,7 +101,7 @@
     "source_name": "WA DOH",
     "region": "Pierce",
     "geoid": "US-53053",
-    "cases": 42
+    "cases": 45
   },
   {
     "country": "United States",
@@ -109,7 +109,7 @@
     "source_name": "WA DOH",
     "region": "Snohomish",
     "geoid": "US-53061",
-    "cases": 21
+    "cases": 24
   },
   {
     "country": "United States",
@@ -157,6 +157,6 @@
     "source_name": "WA DOH",
     "region": "Washington",
     "geoid": "US-53",
-    "cases": 522
+    "cases": 537
   }
 ]
