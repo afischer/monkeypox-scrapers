@@ -149,7 +149,7 @@
     "source_name": "MDDHS",
     "region": "Wayne",
     "geoid": "US-26163",
-    "cases": 116
+    "cases": 117
   },
   {
     "country": "United States",
@@ -157,6 +157,6 @@
     "source_name": "MDDHS",
     "region": "Michigan",
     "geoid": "US-26",
-    "cases": 245
+    "cases": 246
   }
 ]
