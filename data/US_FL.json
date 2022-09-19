@@ -5,7 +5,7 @@
     "source_name": "FL DOH",
     "region": "Florida",
     "geoid": "US-12",
-    "cases": 2357
+    "cases": 2398
   },
   {
     "country": "United States",
@@ -13,7 +13,7 @@
     "source_name": "FL DOH",
     "region": "Alachua",
     "geoid": "US-12001",
-    "cases": 11
+    "cases": 12
   },
   {
     "country": "United States",
@@ -37,7 +37,7 @@
     "source_name": "FL DOH",
     "region": "Broward",
     "geoid": "US-12011",
-    "cases": 649
+    "cases": 654
   },
   {
     "country": "United States",
@@ -61,7 +61,7 @@
     "source_name": "FL DOH",
     "region": "Clay",
     "geoid": "US-12019",
-    "cases": 6
+    "cases": 8
   },
   {
     "country": "United States",
@@ -85,7 +85,7 @@
     "source_name": "FL DOH",
     "region": "Duval",
     "geoid": "US-12031",
-    "cases": 38
+    "cases": 41
   },
   {
     "country": "United States",
@@ -109,7 +109,7 @@
     "source_name": "FL DOH",
     "region": "Gadsden",
     "geoid": "US-12039",
-    "cases": 3
+    "cases": 4
   },
   {
     "country": "United States",
@@ -125,7 +125,7 @@
     "source_name": "FL DOH",
     "region": "Hillsborough",
     "geoid": "US-12057",
-    "cases": 186
+    "cases": 192
   },
   {
     "country": "United States",
@@ -165,7 +165,7 @@
     "source_name": "FL DOH",
     "region": "Leon",
     "geoid": "US-12073",
-    "cases": 20
+    "cases": 21
   },
   {
     "country": "United States",
@@ -197,7 +197,7 @@
     "source_name": "FL DOH",
     "region": "Miami-Dade",
     "geoid": "US-12086",
-    "cases": 789
+    "cases": 802
   },
   {
     "country": "United States",
@@ -221,7 +221,7 @@
     "source_name": "FL DOH",
     "region": "Orange",
     "geoid": "US-12095",
-    "cases": 223
+    "cases": 225
   },
   {
     "country": "United States",
@@ -237,7 +237,7 @@
     "source_name": "FL DOH",
     "region": "Palm Beach",
     "geoid": "US-12099",
-    "cases": 99
+    "cases": 101
   },
   {
     "country": "United States",
@@ -253,7 +253,7 @@
     "source_name": "FL DOH",
     "region": "Pinellas",
     "geoid": "US-12103",
-    "cases": 120
+    "cases": 122
   },
   {
     "country": "United States",
@@ -261,7 +261,7 @@
     "source_name": "FL DOH",
     "region": "Polk",
     "geoid": "US-12105",
-    "cases": 19
+    "cases": 20
   },
   {
     "country": "United States",
@@ -269,7 +269,7 @@
     "source_name": "FL DOH",
     "region": "Santa Rosa",
     "geoid": "US-12113",
-    "cases": 2
+    "cases": 3
   },
   {
     "country": "United States",
@@ -325,6 +325,6 @@
     "source_name": "FL DOH",
     "region": "Volusia",
     "geoid": "US-12127",
-    "cases": 15
+    "cases": 16
   }
 ]
