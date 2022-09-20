@@ -13,15 +13,24 @@ export default class US_WA implements Scraper {
 
     const entries: ScrapeItem[] = [];    
 
-    $("table.tablesaw.tablesaw-stack:first-of-type tbody tr").each((i, el) => {
+    const tables = $("table.tablesaw-stack");
+
+    // CITY/COUNTY CASES
+    const countyTable = tables.filter((i, el) =>
+      $(el).text()?.includes("Number of cases")
+    );
+
+    countyTable.find("tbody tr").each((i, el) => {
       const data = $(el).find("td");
+      
       if (data.length !== 2) throw new Error("Unknown columns found");
 
       let countyName = $(data[0]).text().trim();
 
-      const fips =
-        countyName.toLowerCase().startsWith("total") ? "53" : getFIPSByCountyName(countyName, "WA");
-        
+      const fips = countyName.toLowerCase().startsWith("total")
+        ? "53"
+        : getFIPSByCountyName(countyName, "WA");
+
       if (!countyName || !fips) {
         throw new Error(`Unknown county ${countyName} fips ${fips}!`);
       }
@@ -30,10 +39,8 @@ export default class US_WA implements Scraper {
       if (!cases) throw new Error("Bad count!");
 
       const region_type =
-        countyName === "Total"
-          ? RegionType.STATE
-          : RegionType.COUNTY;
-          
+        countyName === "Total" ? RegionType.STATE : RegionType.COUNTY;
+
       if (countyName.toLowerCase().startsWith("total")) {
         countyName = "Washington";
       }
