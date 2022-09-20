@@ -5,7 +5,7 @@
     "source_name": "FL DOH",
     "region": "Florida",
     "geoid": "US-12",
-    "cases": 2398
+    "cases": 2411
   },
   {
     "country": "United States",
@@ -13,7 +13,7 @@
     "source_name": "FL DOH",
     "region": "Alachua",
     "geoid": "US-12001",
-    "cases": 12
+    "cases": 11
   },
   {
     "country": "United States",
@@ -37,7 +37,7 @@
     "source_name": "FL DOH",
     "region": "Broward",
     "geoid": "US-12011",
-    "cases": 654
+    "cases": 653
   },
   {
     "country": "United States",
@@ -85,7 +85,7 @@
     "source_name": "FL DOH",
     "region": "Duval",
     "geoid": "US-12031",
-    "cases": 41
+    "cases": 43
   },
   {
     "country": "United States",
@@ -110,6 +110,14 @@
     "region": "Gadsden",
     "geoid": "US-12039",
     "cases": 4
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "FL DOH",
+    "region": "Hamilton",
+    "geoid": "US-12047",
+    "cases": 1
   },
   {
     "country": "United States",
@@ -165,7 +173,7 @@
     "source_name": "FL DOH",
     "region": "Leon",
     "geoid": "US-12073",
-    "cases": 21
+    "cases": 23
   },
   {
     "country": "United States",
@@ -197,7 +205,7 @@
     "source_name": "FL DOH",
     "region": "Miami-Dade",
     "geoid": "US-12086",
-    "cases": 802
+    "cases": 808
   },
   {
     "country": "United States",
@@ -221,7 +229,7 @@
     "source_name": "FL DOH",
     "region": "Orange",
     "geoid": "US-12095",
-    "cases": 225
+    "cases": 227
   },
   {
     "country": "United States",
@@ -253,7 +261,7 @@
     "source_name": "FL DOH",
     "region": "Pinellas",
     "geoid": "US-12103",
-    "cases": 122
+    "cases": 123
   },
   {
     "country": "United States",
@@ -285,7 +293,7 @@
     "source_name": "FL DOH",
     "region": "Seminole",
     "geoid": "US-12117",
-    "cases": 27
+    "cases": 28
   },
   {
     "country": "United States",
