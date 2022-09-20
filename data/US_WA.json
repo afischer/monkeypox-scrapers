@@ -21,7 +21,7 @@
     "source_name": "WA DOH",
     "region": "Clark",
     "geoid": "US-53011",
-    "cases": 9
+    "cases": 10
   },
   {
     "country": "United States",
@@ -61,7 +61,7 @@
     "source_name": "WA DOH",
     "region": "King",
     "geoid": "US-53033",
-    "cases": 435
+    "cases": 444
   },
   {
     "country": "United States",
@@ -109,7 +109,7 @@
     "source_name": "WA DOH",
     "region": "Snohomish",
     "geoid": "US-53061",
-    "cases": 26
+    "cases": 27
   },
   {
     "country": "United States",
@@ -157,6 +157,6 @@
     "source_name": "WA DOH",
     "region": "Washington",
     "geoid": "US-53",
-    "cases": 545
+    "cases": 556
   }
 ]
