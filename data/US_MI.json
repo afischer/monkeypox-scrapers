@@ -17,11 +17,19 @@
   },
   {
     "country": "United States",
+    "region_type": "county",
+    "source_name": "MDDHS",
+    "region": "Berrien",
+    "geoid": "US-26021",
+    "cases": 1
+  },
+  {
+    "country": "United States",
     "region_type": "city",
     "source_name": "MDDHS",
     "region": "Detroit City",
     "geoid": "US-2622000",
-    "cases": 81
+    "cases": 86
   },
   {
     "country": "United States",
@@ -85,7 +93,15 @@
     "source_name": "MDDHS",
     "region": "Macomb",
     "geoid": "US-26099",
-    "cases": 27
+    "cases": 28
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MDDHS",
+    "region": "Monroe",
+    "geoid": "US-26115",
+    "cases": 1
   },
   {
     "country": "United States",
@@ -109,7 +125,7 @@
     "source_name": "MDDHS",
     "region": "Oakland",
     "geoid": "US-26125",
-    "cases": 43
+    "cases": 44
   },
   {
     "country": "United States",
@@ -141,7 +157,7 @@
     "source_name": "MDDHS",
     "region": "Washtenaw",
     "geoid": "US-26161",
-    "cases": 17
+    "cases": 18
   },
   {
     "country": "United States",
@@ -149,7 +165,7 @@
     "source_name": "MDDHS",
     "region": "Wayne",
     "geoid": "US-26163",
-    "cases": 117
+    "cases": 122
   },
   {
     "country": "United States",
@@ -157,6 +173,6 @@
     "source_name": "MDDHS",
     "region": "Michigan",
     "geoid": "US-26",
-    "cases": 246
+    "cases": 256
   }
 ]
