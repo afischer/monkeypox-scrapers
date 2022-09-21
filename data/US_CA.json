@@ -275,6 +275,14 @@
     "country": "United States",
     "region_type": "county",
     "source_name": "CA CPDH",
+    "region": "Kings",
+    "geoid": "US-06031",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "CA CPDH",
     "region": "Merced",
     "geoid": "US-06047",
     "cases": 1
@@ -325,6 +333,14 @@
     "source_name": "CA CPDH",
     "region": "Sutter",
     "geoid": "US-06101",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "CA CPDH",
+    "region": "Tuolumne",
+    "geoid": "US-06109",
     "cases": 1
   },
   {
