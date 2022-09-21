@@ -75,6 +75,14 @@
     "country": "United States",
     "region_type": "county",
     "source_name": "MDDHS",
+    "region": "Kalamazoo",
+    "geoid": "US-26077",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MDDHS",
     "region": "Kent",
     "geoid": "US-26081",
     "cases": 13
@@ -173,6 +181,6 @@
     "source_name": "MDDHS",
     "region": "Michigan",
     "geoid": "US-26",
-    "cases": 256
+    "cases": 257
   }
 ]
