@@ -5,7 +5,7 @@
     "source_name": "OHA",
     "region": "Oregon",
     "geoid": "US-41",
-    "cases": 189
+    "cases": 204
   },
   {
     "country": "United States",
@@ -53,7 +53,7 @@
     "source_name": "OHA",
     "region": "Marion",
     "geoid": "US-41047",
-    "cases": 5
+    "cases": 6
   },
   {
     "country": "United States",
@@ -61,7 +61,7 @@
     "source_name": "OHA",
     "region": "Multnomah",
     "geoid": "US-41051",
-    "cases": 129
+    "cases": 141
   },
   {
     "country": "United States",
@@ -77,6 +77,6 @@
     "source_name": "OHA",
     "region": "Washington",
     "geoid": "US-41067",
-    "cases": 22
+    "cases": 24
   }
 ]
