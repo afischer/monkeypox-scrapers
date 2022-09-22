@@ -5,7 +5,7 @@
     "source_name": "FL DOH",
     "region": "Florida",
     "geoid": "US-12",
-    "cases": 2422
+    "cases": 2432
   },
   {
     "country": "United States",
@@ -85,7 +85,7 @@
     "source_name": "FL DOH",
     "region": "Duval",
     "geoid": "US-12031",
-    "cases": 43
+    "cases": 44
   },
   {
     "country": "United States",
@@ -133,7 +133,7 @@
     "source_name": "FL DOH",
     "region": "Hillsborough",
     "geoid": "US-12057",
-    "cases": 194
+    "cases": 195
   },
   {
     "country": "United States",
@@ -165,7 +165,7 @@
     "source_name": "FL DOH",
     "region": "Lee",
     "geoid": "US-12071",
-    "cases": 17
+    "cases": 18
   },
   {
     "country": "United States",
@@ -205,7 +205,7 @@
     "source_name": "FL DOH",
     "region": "Miami-Dade",
     "geoid": "US-12086",
-    "cases": 810
+    "cases": 812
   },
   {
     "country": "United States",
@@ -229,7 +229,7 @@
     "source_name": "FL DOH",
     "region": "Orange",
     "geoid": "US-12095",
-    "cases": 229
+    "cases": 230
   },
   {
     "country": "United States",
@@ -245,7 +245,7 @@
     "source_name": "FL DOH",
     "region": "Palm Beach",
     "geoid": "US-12099",
-    "cases": 101
+    "cases": 102
   },
   {
     "country": "United States",
@@ -269,7 +269,7 @@
     "source_name": "FL DOH",
     "region": "Polk",
     "geoid": "US-12105",
-    "cases": 20
+    "cases": 21
   },
   {
     "country": "United States",
@@ -293,7 +293,7 @@
     "source_name": "FL DOH",
     "region": "Seminole",
     "geoid": "US-12117",
-    "cases": 29
+    "cases": 30
   },
   {
     "country": "United States",
@@ -333,6 +333,6 @@
     "source_name": "FL DOH",
     "region": "Volusia",
     "geoid": "US-12127",
-    "cases": 16
+    "cases": 17
   }
 ]
