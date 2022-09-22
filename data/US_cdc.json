@@ -275,7 +275,7 @@
     "geoid": "US-37",
     "country": "United States",
     "region": "North Carolina",
-    "cases": 510,
+    "cases": 512,
     "region_type": "state",
     "source_name": "CDC"
   },
@@ -427,7 +427,7 @@
     "geoid": "US",
     "country": "United States",
     "region": null,
-    "cases": 24570,
+    "cases": 24572,
     "region_type": "country",
     "source_name": "CDC"
   }
