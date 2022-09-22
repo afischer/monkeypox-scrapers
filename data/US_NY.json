@@ -53,7 +53,7 @@
     "source_name": "NY DOH",
     "region": "Erie",
     "geoid": "US-36029",
-    "cases": 16
+    "cases": 17
   },
   {
     "country": "United States",
@@ -118,6 +118,14 @@
     "region": "Putnam",
     "geoid": "US-36079",
     "cases": 4
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "NY DOH",
+    "region": "Rensselaer",
+    "geoid": "US-36083",
+    "cases": 1
   },
   {
     "country": "United States",
@@ -205,7 +213,7 @@
     "source_name": "NY DOH",
     "region": "New York City",
     "geoid": "US-3651000",
-    "cases": 3452
+    "cases": 3480
   },
   {
     "country": "United States",
@@ -213,6 +221,6 @@
     "source_name": "NY DOH",
     "region": "New York",
     "geoid": "US-36",
-    "cases": 3759
+    "cases": 3789
   }
 ]
