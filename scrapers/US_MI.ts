@@ -35,7 +35,8 @@ export default class US_MI implements Scraper {
 
       const data = $(el).find("td");
 
-      if (data.length !== 2) throw new Error("Unknown columns found");
+      // Jurisdiction, Cumulative, Cases referred in last 14 days
+      if (data.length !== 3) throw new Error("Unknown columns found");
 
       let geoName = $(data[0])
         .text()
