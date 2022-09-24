@@ -20,7 +20,7 @@ jobs:
     - run: ./node_modules/.bin/ts-node runScraper.ts US_cdc > data/US_cdc.json
     - run: ./node_modules/.bin/ts-node runScraper.ts US_NY_NYC > data/US_NY_NYC.json
     - run: ./node_modules/.bin/ts-node runScraper.ts US_NY > data/US_NY.json
-    # - run: ./node_modules/.bin/ts-node runScraper.ts US_CA > data/US_CA.json
+    - run: ./node_modules/.bin/ts-node runScraper.ts US_CA > data/US_CA.json
     - run: ./node_modules/.bin/ts-node runScraper.ts US_FL > data/US_FL.json
     - run: ./node_modules/.bin/ts-node runScraper.ts US_OR > data/US_OR.json
     - run: ./node_modules/.bin/ts-node runScraper.ts US_WA > data/US_WA.json
@@ -28,6 +28,7 @@ jobs:
     - run: ./node_modules/.bin/ts-node runScraper.ts US_ME > data/US_ME.json
     - run: ./node_modules/.bin/ts-node runScraper.ts US_MN > data/US_MN.json
     - run: ./node_modules/.bin/ts-node runScraper.ts US_MD > data/US_MD.json
+    - run: ./node_modules/.bin/ts-node runScraper.ts US_IL > data/US_IL.json
     - name: Commit and push changes
       run: |-
         git config user.name "Scraper"
