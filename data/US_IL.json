@@ -1,0 +1,834 @@
+[
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Adams",
+    "geoid": "US-17001",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Alexander",
+    "geoid": "US-17003",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Bond",
+    "geoid": "US-17005",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Boone",
+    "geoid": "US-17007",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Brown",
+    "geoid": "US-17009",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Bureau",
+    "geoid": "US-17011",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Calhoun",
+    "geoid": "US-17013",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Carroll",
+    "geoid": "US-17015",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Cass",
+    "geoid": "US-17017",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Champaign",
+    "geoid": "US-17019",
+    "cases": 11
+  },
+  {
+    "country": "United States",
+    "region_type": "city",
+    "source_name": "IL DPH",
+    "region": "Chicago",
+    "geoid": "US-1714000",
+    "cases": 1007
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Christian",
+    "geoid": "US-17021",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Clark",
+    "geoid": "US-17023",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Clay",
+    "geoid": "US-17025",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Clinton",
+    "geoid": "US-17027",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Coles",
+    "geoid": "US-17029",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Cook",
+    "geoid": "US-17031",
+    "cases": 1143
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Crawford",
+    "geoid": "US-17033",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Cumberland",
+    "geoid": "US-17035",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "De Witt",
+    "geoid": "US-17039",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "DeKalb",
+    "geoid": "US-17037",
+    "cases": 3
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Douglas",
+    "geoid": "US-17041",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "DuPage",
+    "geoid": "US-17043",
+    "cases": 21
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Edgar",
+    "geoid": "US-17045",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Edwards",
+    "geoid": "US-17047",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Effingham",
+    "geoid": "US-17049",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Fayette",
+    "geoid": "US-17051",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Ford",
+    "geoid": "US-17053",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Franklin",
+    "geoid": "US-17055",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Fulton",
+    "geoid": "US-17057",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Gallatin",
+    "geoid": "US-17059",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Greene",
+    "geoid": "US-17061",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Grundy",
+    "geoid": "US-17063",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Hamilton",
+    "geoid": "US-17065",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Hancock",
+    "geoid": "US-17067",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Hardin",
+    "geoid": "US-17069",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Henderson",
+    "geoid": "US-17071",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Henry",
+    "geoid": "US-17073",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "state",
+    "source_name": "IL DPH",
+    "region": "Illinois",
+    "geoid": "US-17",
+    "cases": 1270
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Iroquois",
+    "geoid": "US-17075",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Jackson",
+    "geoid": "US-17077",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Jasper",
+    "geoid": "US-17079",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Jefferson",
+    "geoid": "US-17081",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Jersey",
+    "geoid": "US-17083",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Jo Daviess",
+    "geoid": "US-17085",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Johnson",
+    "geoid": "US-17087",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Kane",
+    "geoid": "US-17089",
+    "cases": 11
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Kankakee",
+    "geoid": "US-17091",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Kendall",
+    "geoid": "US-17093",
+    "cases": 4
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Knox",
+    "geoid": "US-17095",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Lake",
+    "geoid": "US-17097",
+    "cases": 11
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "LaSalle",
+    "geoid": "US-17099",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Lawrence",
+    "geoid": "US-17101",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Lee",
+    "geoid": "US-17103",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Livingston",
+    "geoid": "US-17105",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Logan",
+    "geoid": "US-17107",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Macon",
+    "geoid": "US-17115",
+    "cases": 2
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Macoupin",
+    "geoid": "US-17117",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Madison",
+    "geoid": "US-17119",
+    "cases": 8
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Marion",
+    "geoid": "US-17121",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Marshall",
+    "geoid": "US-17123",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Mason",
+    "geoid": "US-17125",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Massac",
+    "geoid": "US-17127",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "McDonough",
+    "geoid": "US-17109",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "McHenry",
+    "geoid": "US-17111",
+    "cases": 3
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "McLean",
+    "geoid": "US-17113",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Menard",
+    "geoid": "US-17129",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Mercer",
+    "geoid": "US-17131",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Monroe",
+    "geoid": "US-17133",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Montgomery",
+    "geoid": "US-17135",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Morgan",
+    "geoid": "US-17137",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Moultrie",
+    "geoid": "US-17139",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Ogle",
+    "geoid": "US-17141",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Peoria",
+    "geoid": "US-17143",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Perry",
+    "geoid": "US-17145",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Piatt",
+    "geoid": "US-17147",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Pike",
+    "geoid": "US-17149",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Pope",
+    "geoid": "US-17151",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Pulaski",
+    "geoid": "US-17153",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Putnam",
+    "geoid": "US-17155",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Randolph",
+    "geoid": "US-17157",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Richland",
+    "geoid": "US-17159",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Rock Island",
+    "geoid": "US-17161",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Saline",
+    "geoid": "US-17165",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Sangamon",
+    "geoid": "US-17167",
+    "cases": 2
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Schuyler",
+    "geoid": "US-17169",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Scott",
+    "geoid": "US-17171",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Shelby",
+    "geoid": "US-17173",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "St. Clair",
+    "geoid": "US-17163",
+    "cases": 7
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Stark",
+    "geoid": "US-17175",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Stephenson",
+    "geoid": "US-17177",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Tazewell",
+    "geoid": "US-17179",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Union",
+    "geoid": "US-17181",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Vermilion",
+    "geoid": "US-17183",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Wabash",
+    "geoid": "US-17185",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Warren",
+    "geoid": "US-17187",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Washington",
+    "geoid": "US-17189",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Wayne",
+    "geoid": "US-17191",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "White",
+    "geoid": "US-17193",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Whiteside",
+    "geoid": "US-17195",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Will",
+    "geoid": "US-17197",
+    "cases": 33
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Williamson",
+    "geoid": "US-17199",
+    "cases": 0
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Winnebago",
+    "geoid": "US-17201",
+    "cases": 4
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "IL DPH",
+    "region": "Woodford",
+    "geoid": "US-17203",
+    "cases": 1
+  }
+]
