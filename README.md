@@ -16,7 +16,7 @@
 - [ ] Georgia
 - [ ] Hawaii
 - [ ] Idaho
-- [ ] Illinois
+- [x] [Illinois](https://dph.illinois.gov/monkeypox.html)
 - [ ] [Indiana](https://www.in.gov/health/erc/infectious-disease-epidemiology/diseases-and-conditions-resource-page/monkeypox/monkeypox-dashboard/) Tableau, only PHDs
 - [ ] Iowa, only PHDs
 - [ ] Kansas
