@@ -202,7 +202,7 @@ const countyFips: Record<string, Record<string, string>> = {
     clay: "12019",
     collier: "12021",
     columbia: "12023",
-    "de soto": "12027",
+    "desoto": "12027",
     dixie: "12029",
     duval: "12031",
     escambia: "12033",
