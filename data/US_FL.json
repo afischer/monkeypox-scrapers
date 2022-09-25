@@ -5,7 +5,7 @@
     "source_name": "FL DOH",
     "region": "Florida",
     "geoid": "US-12",
-    "cases": 2449
+    "cases": 2451
   },
   {
     "country": "United States",
@@ -37,7 +37,7 @@
     "source_name": "FL DOH",
     "region": "Broward",
     "geoid": "US-12011",
-    "cases": 657
+    "cases": 658
   },
   {
     "country": "United States",
@@ -70,6 +70,14 @@
     "region": "Collier",
     "geoid": "US-12021",
     "cases": 6
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "FL DOH",
+    "region": "DeSoto",
+    "geoid": "US-12027",
+    "cases": 1
   },
   {
     "country": "United States",
