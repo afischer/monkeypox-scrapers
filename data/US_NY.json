@@ -91,6 +91,14 @@
     "country": "United States",
     "region_type": "county",
     "source_name": "NY DOH",
+    "region": "Oneida",
+    "geoid": "US-36065",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "NY DOH",
     "region": "Onondaga",
     "geoid": "US-36067",
     "cases": 1
@@ -213,7 +221,7 @@
     "source_name": "NY DOH",
     "region": "New York City",
     "geoid": "US-3651000",
-    "cases": 3489
+    "cases": 3501
   },
   {
     "country": "United States",
@@ -221,6 +229,6 @@
     "source_name": "NY DOH",
     "region": "New York",
     "geoid": "US-36",
-    "cases": 3802
+    "cases": 3815
   }
 ]
