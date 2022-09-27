@@ -5,7 +5,7 @@
     "source_name": "FL DOH",
     "region": "Florida",
     "geoid": "US-12",
-    "cases": 2453
+    "cases": 2499
   },
   {
     "country": "United States",
@@ -13,7 +13,7 @@
     "source_name": "FL DOH",
     "region": "Alachua",
     "geoid": "US-12001",
-    "cases": 14
+    "cases": 15
   },
   {
     "country": "United States",
@@ -37,7 +37,7 @@
     "source_name": "FL DOH",
     "region": "Broward",
     "geoid": "US-12011",
-    "cases": 659
+    "cases": 660
   },
   {
     "country": "United States",
@@ -93,7 +93,7 @@
     "source_name": "FL DOH",
     "region": "Duval",
     "geoid": "US-12031",
-    "cases": 44
+    "cases": 47
   },
   {
     "country": "United States",
@@ -141,7 +141,7 @@
     "source_name": "FL DOH",
     "region": "Hillsborough",
     "geoid": "US-12057",
-    "cases": 194
+    "cases": 199
   },
   {
     "country": "United States",
@@ -213,7 +213,7 @@
     "source_name": "FL DOH",
     "region": "Miami-Dade",
     "geoid": "US-12086",
-    "cases": 815
+    "cases": 823
   },
   {
     "country": "United States",
@@ -221,7 +221,7 @@
     "source_name": "FL DOH",
     "region": "Monroe",
     "geoid": "US-12087",
-    "cases": 21
+    "cases": 23
   },
   {
     "country": "United States",
@@ -237,7 +237,7 @@
     "source_name": "FL DOH",
     "region": "Orange",
     "geoid": "US-12095",
-    "cases": 232
+    "cases": 242
   },
   {
     "country": "United States",
@@ -245,7 +245,7 @@
     "source_name": "FL DOH",
     "region": "Osceola",
     "geoid": "US-12097",
-    "cases": 27
+    "cases": 30
   },
   {
     "country": "United States",
@@ -253,7 +253,7 @@
     "source_name": "FL DOH",
     "region": "Palm Beach",
     "geoid": "US-12099",
-    "cases": 102
+    "cases": 103
   },
   {
     "country": "United States",
@@ -261,7 +261,7 @@
     "source_name": "FL DOH",
     "region": "Pasco",
     "geoid": "US-12101",
-    "cases": 17
+    "cases": 18
   },
   {
     "country": "United States",
@@ -269,7 +269,7 @@
     "source_name": "FL DOH",
     "region": "Pinellas",
     "geoid": "US-12103",
-    "cases": 127
+    "cases": 134
   },
   {
     "country": "United States",
@@ -285,7 +285,7 @@
     "source_name": "FL DOH",
     "region": "Santa Rosa",
     "geoid": "US-12113",
-    "cases": 3
+    "cases": 4
   },
   {
     "country": "United States",
@@ -293,7 +293,7 @@
     "source_name": "FL DOH",
     "region": "Sarasota",
     "geoid": "US-12115",
-    "cases": 4
+    "cases": 5
   },
   {
     "country": "United States",
@@ -301,7 +301,7 @@
     "source_name": "FL DOH",
     "region": "Seminole",
     "geoid": "US-12117",
-    "cases": 30
+    "cases": 31
   },
   {
     "country": "United States",
@@ -341,6 +341,6 @@
     "source_name": "FL DOH",
     "region": "Volusia",
     "geoid": "US-12127",
-    "cases": 18
+    "cases": 19
   }
 ]
