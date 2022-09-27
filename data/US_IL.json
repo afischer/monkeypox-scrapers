@@ -85,7 +85,7 @@
     "source_name": "IL DPH",
     "region": "Chicago",
     "geoid": "US-1714000",
-    "cases": 1018
+    "cases": 1028
   },
   {
     "country": "United States",
@@ -133,7 +133,7 @@
     "source_name": "IL DPH",
     "region": "Cook",
     "geoid": "US-17031",
-    "cases": 1156
+    "cases": 1167
   },
   {
     "country": "United States",
@@ -181,7 +181,7 @@
     "source_name": "IL DPH",
     "region": "DuPage",
     "geoid": "US-17043",
-    "cases": 21
+    "cases": 22
   },
   {
     "country": "United States",
@@ -309,7 +309,7 @@
     "source_name": "IL DPH",
     "region": "Illinois",
     "geoid": "US-17",
-    "cases": 1284
+    "cases": 1300
   },
   {
     "country": "United States",
@@ -405,7 +405,7 @@
     "source_name": "IL DPH",
     "region": "Lake",
     "geoid": "US-17097",
-    "cases": 11
+    "cases": 12
   },
   {
     "country": "United States",
@@ -709,7 +709,7 @@
     "source_name": "IL DPH",
     "region": "St. Clair",
     "geoid": "US-17163",
-    "cases": 7
+    "cases": 8
   },
   {
     "country": "United States",
@@ -805,7 +805,7 @@
     "source_name": "IL DPH",
     "region": "Will",
     "geoid": "US-17197",
-    "cases": 34
+    "cases": 35
   },
   {
     "country": "United States",
@@ -821,7 +821,7 @@
     "source_name": "IL DPH",
     "region": "Winnebago",
     "geoid": "US-17201",
-    "cases": 4
+    "cases": 5
   },
   {
     "country": "United States",
