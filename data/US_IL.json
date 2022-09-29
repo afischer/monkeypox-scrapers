@@ -85,7 +85,7 @@
     "source_name": "IL DPH",
     "region": "Chicago",
     "geoid": "US-1714000",
-    "cases": 1030
+    "cases": 1031
   },
   {
     "country": "United States",
@@ -133,7 +133,7 @@
     "source_name": "IL DPH",
     "region": "Cook",
     "geoid": "US-17031",
-    "cases": 1170
+    "cases": 1171
   },
   {
     "country": "United States",
@@ -309,7 +309,7 @@
     "source_name": "IL DPH",
     "region": "Illinois",
     "geoid": "US-17",
-    "cases": 1305
+    "cases": 1306
   },
   {
     "country": "United States",
@@ -405,7 +405,7 @@
     "source_name": "IL DPH",
     "region": "Lake",
     "geoid": "US-17097",
-    "cases": 12
+    "cases": 11
   },
   {
     "country": "United States",
