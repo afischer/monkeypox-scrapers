@@ -13,7 +13,7 @@
     "source_name": "MD DOH",
     "region": "Baltimore",
     "geoid": "US-24005",
-    "cases": 52
+    "cases": 53
   },
   {
     "country": "United States",
@@ -21,7 +21,7 @@
     "source_name": "MD DOH",
     "region": "Baltimore City",
     "geoid": "US-24510",
-    "cases": 201
+    "cases": 214
   },
   {
     "country": "United States",
@@ -45,7 +45,7 @@
     "source_name": "MD DOH",
     "region": "Montgomery",
     "geoid": "US-24031",
-    "cases": 76
+    "cases": 81
   },
   {
     "country": "United States",
@@ -61,6 +61,6 @@
     "source_name": "MD DOH",
     "region": "Maryland",
     "geoid": "US-24",
-    "cases": 639
+    "cases": 662
   }
 ]
