@@ -5,7 +5,7 @@
     "source_name": "FL DOH",
     "region": "Florida",
     "geoid": "US-12",
-    "cases": 2526
+    "cases": 2536
   },
   {
     "country": "United States",
@@ -117,7 +117,7 @@
     "source_name": "FL DOH",
     "region": "Gadsden",
     "geoid": "US-12039",
-    "cases": 4
+    "cases": 5
   },
   {
     "country": "United States",
@@ -149,7 +149,7 @@
     "source_name": "FL DOH",
     "region": "Hillsborough",
     "geoid": "US-12057",
-    "cases": 204
+    "cases": 205
   },
   {
     "country": "United States",
@@ -181,7 +181,7 @@
     "source_name": "FL DOH",
     "region": "Lee",
     "geoid": "US-12071",
-    "cases": 20
+    "cases": 21
   },
   {
     "country": "United States",
@@ -221,7 +221,7 @@
     "source_name": "FL DOH",
     "region": "Miami-Dade",
     "geoid": "US-12086",
-    "cases": 829
+    "cases": 830
   },
   {
     "country": "United States",
@@ -245,7 +245,7 @@
     "source_name": "FL DOH",
     "region": "Orange",
     "geoid": "US-12095",
-    "cases": 243
+    "cases": 245
   },
   {
     "country": "United States",
@@ -277,7 +277,7 @@
     "source_name": "FL DOH",
     "region": "Pinellas",
     "geoid": "US-12103",
-    "cases": 135
+    "cases": 138
   },
   {
     "country": "United States",
@@ -350,5 +350,13 @@
     "region": "Volusia",
     "geoid": "US-12127",
     "cases": 20
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "FL DOH",
+    "region": "Walton",
+    "geoid": "US-12131",
+    "cases": 1
   }
 ]
