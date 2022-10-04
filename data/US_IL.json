@@ -77,7 +77,7 @@
     "source_name": "IL DPH",
     "region": "Champaign",
     "geoid": "US-17019",
-    "cases": 11
+    "cases": 12
   },
   {
     "country": "United States",
@@ -85,7 +85,7 @@
     "source_name": "IL DPH",
     "region": "Chicago",
     "geoid": "US-1714000",
-    "cases": 1038
+    "cases": 1046
   },
   {
     "country": "United States",
@@ -133,7 +133,7 @@
     "source_name": "IL DPH",
     "region": "Cook",
     "geoid": "US-17031",
-    "cases": 1180
+    "cases": 1189
   },
   {
     "country": "United States",
@@ -309,7 +309,7 @@
     "source_name": "IL DPH",
     "region": "Illinois",
     "geoid": "US-17",
-    "cases": 1315
+    "cases": 1326
   },
   {
     "country": "United States",
@@ -677,7 +677,7 @@
     "source_name": "IL DPH",
     "region": "Sangamon",
     "geoid": "US-17167",
-    "cases": 3
+    "cases": 4
   },
   {
     "country": "United States",
