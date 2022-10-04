@@ -5,7 +5,7 @@
     "source_name": "FL DOH",
     "region": "Florida",
     "geoid": "US-12",
-    "cases": 2543
+    "cases": 2558
   },
   {
     "country": "United States",
@@ -37,7 +37,7 @@
     "source_name": "FL DOH",
     "region": "Broward",
     "geoid": "US-12011",
-    "cases": 663
+    "cases": 667
   },
   {
     "country": "United States",
@@ -139,14 +139,6 @@
     "country": "United States",
     "region_type": "county",
     "source_name": "FL DOH",
-    "region": "Hernando",
-    "geoid": "US-12053",
-    "cases": 1
-  },
-  {
-    "country": "United States",
-    "region_type": "county",
-    "source_name": "FL DOH",
     "region": "Hillsborough",
     "geoid": "US-12057",
     "cases": 208
@@ -221,7 +213,7 @@
     "source_name": "FL DOH",
     "region": "Miami-Dade",
     "geoid": "US-12086",
-    "cases": 830
+    "cases": 840
   },
   {
     "country": "United States",
@@ -245,7 +237,7 @@
     "source_name": "FL DOH",
     "region": "Orange",
     "geoid": "US-12095",
-    "cases": 246
+    "cases": 247
   },
   {
     "country": "United States",
@@ -277,7 +269,7 @@
     "source_name": "FL DOH",
     "region": "Pinellas",
     "geoid": "US-12103",
-    "cases": 139
+    "cases": 140
   },
   {
     "country": "United States",
