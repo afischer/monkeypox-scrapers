@@ -309,7 +309,7 @@
     "source_name": "IL DPH",
     "region": "Illinois",
     "geoid": "US-17",
-    "cases": 1326
+    "cases": 1329
   },
   {
     "country": "United States",
@@ -373,7 +373,7 @@
     "source_name": "IL DPH",
     "region": "Kane",
     "geoid": "US-17089",
-    "cases": 12
+    "cases": 13
   },
   {
     "country": "United States",
@@ -709,7 +709,7 @@
     "source_name": "IL DPH",
     "region": "St. Clair",
     "geoid": "US-17163",
-    "cases": 8
+    "cases": 10
   },
   {
     "country": "United States",
