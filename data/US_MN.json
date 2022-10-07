@@ -149,7 +149,7 @@
     "source_name": "MN DOH",
     "region": "Dakota",
     "geoid": "US-27037",
-    "cases": 13
+    "cases": 14
   },
   {
     "country": "United States",
@@ -213,7 +213,7 @@
     "source_name": "MN DOH",
     "region": "Hennepin",
     "geoid": "US-27053",
-    "cases": 137
+    "cases": 146
   },
   {
     "country": "United States",
@@ -653,7 +653,7 @@
     "source_name": "MN DOH",
     "region": "Washington",
     "geoid": "US-27163",
-    "cases": 1
+    "cases": 5
   },
   {
     "country": "United States",
