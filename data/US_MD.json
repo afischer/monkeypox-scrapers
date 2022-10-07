@@ -5,7 +5,7 @@
     "source_name": "MD DOH",
     "region": "Anne Arundel",
     "geoid": "US-24003",
-    "cases": 35
+    "cases": 37
   },
   {
     "country": "United States",
@@ -13,7 +13,7 @@
     "source_name": "MD DOH",
     "region": "Baltimore",
     "geoid": "US-24005",
-    "cases": 53
+    "cases": 59
   },
   {
     "country": "United States",
@@ -21,7 +21,7 @@
     "source_name": "MD DOH",
     "region": "Baltimore City",
     "geoid": "US-24510",
-    "cases": 214
+    "cases": 220
   },
   {
     "country": "United States",
@@ -29,7 +29,7 @@
     "source_name": "MD DOH",
     "region": "Charles",
     "geoid": "US-24017",
-    "cases": 12
+    "cases": 13
   },
   {
     "country": "United States",
@@ -45,7 +45,7 @@
     "source_name": "MD DOH",
     "region": "Montgomery",
     "geoid": "US-24031",
-    "cases": 81
+    "cases": 83
   },
   {
     "country": "United States",
@@ -53,7 +53,7 @@
     "source_name": "MD DOH",
     "region": "Prince George",
     "geoid": "US-24033",
-    "cases": 219
+    "cases": 221
   },
   {
     "country": "United States",
@@ -61,6 +61,6 @@
     "source_name": "MD DOH",
     "region": "Maryland",
     "geoid": "US-24",
-    "cases": 662
+    "cases": 682
   }
 ]
