@@ -11,10 +11,16 @@ export default class US_MN implements Scraper {
 
     const $ = cheerio.load(data);
 
-    const entries: ScrapeItem[] = [];    
+    const tables = $("table");
+
+    const countyTable = tables.filter((i, el) =>
+      $(el).text()?.includes("County")
+    );
+
+    const entries: ScrapeItem[] = [];
 
     // counties
-    $("#maptable2022 tbody tr").each((i, el) => {
+    countyTable.find("tr").each((i, el) => {
       const data = $(el).find("td");
       // skip header row if it's labeled as a body row
       if (i === 0 && $(el).hasClass("table_head_shade")) return;
@@ -24,7 +30,7 @@ export default class US_MN implements Scraper {
 
       let countyName = $(data[0]).text().trim();
 
-      if (countyName === 'Unknown') return; // skip unknowns
+      if (countyName === "Unknown") return; // skip unknowns
 
       const fips = countyName.toLowerCase().startsWith("total")
         ? "27"
@@ -58,11 +64,12 @@ export default class US_MN implements Scraper {
     });
 
     // STATEWIDE
-    const [_, statewideCases] = $("body .well strong")
-      .text()
-      .match(/(\d+) confirmed cases/i) ?? [];
+    const [_, statewideCases] =
+      $("body .well strong")
+        .text()
+        .match(/(\d+) confirmed cases/i) ?? [];
 
-    if (!statewideCases || !parseInt(statewideCases)){
+    if (!statewideCases || !parseInt(statewideCases)) {
       throw new Error("Missing state total!");
     }
 
