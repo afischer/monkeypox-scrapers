@@ -5,7 +5,7 @@
     "source_name": "FL DOH",
     "region": "Florida",
     "geoid": "US-12",
-    "cases": 2617
+    "cases": 2623
   },
   {
     "country": "United States",
@@ -37,7 +37,7 @@
     "source_name": "FL DOH",
     "region": "Broward",
     "geoid": "US-12011",
-    "cases": 673
+    "cases": 676
   },
   {
     "country": "United States",
@@ -141,7 +141,7 @@
     "source_name": "FL DOH",
     "region": "Hillsborough",
     "geoid": "US-12057",
-    "cases": 210
+    "cases": 211
   },
   {
     "country": "United States",
@@ -269,7 +269,7 @@
     "source_name": "FL DOH",
     "region": "Pinellas",
     "geoid": "US-12103",
-    "cases": 146
+    "cases": 147
   },
   {
     "country": "United States",
@@ -341,7 +341,7 @@
     "source_name": "FL DOH",
     "region": "Volusia",
     "geoid": "US-12127",
-    "cases": 20
+    "cases": 21
   },
   {
     "country": "United States",
