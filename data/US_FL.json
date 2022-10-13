@@ -5,7 +5,7 @@
     "source_name": "FL DOH",
     "region": "Florida",
     "geoid": "US-12",
-    "cases": 2623
+    "cases": 2632
   },
   {
     "country": "United States",
@@ -37,7 +37,7 @@
     "source_name": "FL DOH",
     "region": "Broward",
     "geoid": "US-12011",
-    "cases": 676
+    "cases": 678
   },
   {
     "country": "United States",
@@ -69,7 +69,7 @@
     "source_name": "FL DOH",
     "region": "Collier",
     "geoid": "US-12021",
-    "cases": 6
+    "cases": 7
   },
   {
     "country": "United States",
@@ -93,7 +93,7 @@
     "source_name": "FL DOH",
     "region": "Duval",
     "geoid": "US-12031",
-    "cases": 49
+    "cases": 50
   },
   {
     "country": "United States",
@@ -141,7 +141,7 @@
     "source_name": "FL DOH",
     "region": "Hillsborough",
     "geoid": "US-12057",
-    "cases": 211
+    "cases": 212
   },
   {
     "country": "United States",
@@ -213,7 +213,7 @@
     "source_name": "FL DOH",
     "region": "Miami-Dade",
     "geoid": "US-12086",
-    "cases": 854
+    "cases": 853
   },
   {
     "country": "United States",
@@ -237,7 +237,7 @@
     "source_name": "FL DOH",
     "region": "Orange",
     "geoid": "US-12095",
-    "cases": 259
+    "cases": 260
   },
   {
     "country": "United States",
@@ -245,7 +245,7 @@
     "source_name": "FL DOH",
     "region": "Osceola",
     "geoid": "US-12097",
-    "cases": 31
+    "cases": 33
   },
   {
     "country": "United States",
@@ -253,7 +253,7 @@
     "source_name": "FL DOH",
     "region": "Palm Beach",
     "geoid": "US-12099",
-    "cases": 109
+    "cases": 110
   },
   {
     "country": "United States",
@@ -269,7 +269,7 @@
     "source_name": "FL DOH",
     "region": "Pinellas",
     "geoid": "US-12103",
-    "cases": 147
+    "cases": 148
   },
   {
     "country": "United States",
@@ -277,7 +277,7 @@
     "source_name": "FL DOH",
     "region": "Polk",
     "geoid": "US-12105",
-    "cases": 26
+    "cases": 25
   },
   {
     "country": "United States",
@@ -341,7 +341,7 @@
     "source_name": "FL DOH",
     "region": "Volusia",
     "geoid": "US-12127",
-    "cases": 21
+    "cases": 22
   },
   {
     "country": "United States",
