@@ -13,7 +13,7 @@
     "source_name": "WA DOH",
     "region": "Chelan",
     "geoid": "US-53007",
-    "cases": 1
+    "cases": 2
   },
   {
     "country": "United States",
@@ -157,7 +157,15 @@
     "source_name": "WA DOH",
     "region": "Whatcom",
     "geoid": "US-53073",
-    "cases": 4
+    "cases": 5
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "WA DOH",
+    "region": "Whitman",
+    "geoid": "US-53075",
+    "cases": 1
   },
   {
     "country": "United States",
@@ -173,6 +181,6 @@
     "source_name": "WA DOH",
     "region": "Washington",
     "geoid": "US-53",
-    "cases": 605
+    "cases": 608
   }
 ]
