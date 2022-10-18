@@ -5,7 +5,7 @@
     "source_name": "MDDHS",
     "region": "Allegan",
     "geoid": "US-26005",
-    "cases": 1
+    "cases": 2
   },
   {
     "country": "United States",
@@ -29,7 +29,7 @@
     "source_name": "MDDHS",
     "region": "Detroit City",
     "geoid": "US-2622000",
-    "cases": 102
+    "cases": 107
   },
   {
     "country": "United States",
@@ -53,7 +53,7 @@
     "source_name": "MDDHS",
     "region": "Ingham",
     "geoid": "US-26065",
-    "cases": 5
+    "cases": 8
   },
   {
     "country": "United States",
@@ -101,7 +101,7 @@
     "source_name": "MDDHS",
     "region": "Macomb",
     "geoid": "US-26099",
-    "cases": 32
+    "cases": 34
   },
   {
     "country": "United States",
@@ -133,7 +133,7 @@
     "source_name": "MDDHS",
     "region": "Oakland",
     "geoid": "US-26125",
-    "cases": 48
+    "cases": 52
   },
   {
     "country": "United States",
@@ -141,7 +141,7 @@
     "source_name": "MDDHS",
     "region": "Ottawa",
     "geoid": "US-26139",
-    "cases": 5
+    "cases": 6
   },
   {
     "country": "United States",
@@ -149,6 +149,14 @@
     "source_name": "MDDHS",
     "region": "Saginaw",
     "geoid": "US-26145",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MDDHS",
+    "region": "Shiawassee",
+    "geoid": "US-26155",
     "cases": 1
   },
   {
@@ -165,7 +173,7 @@
     "source_name": "MDDHS",
     "region": "Washtenaw",
     "geoid": "US-26161",
-    "cases": 18
+    "cases": 19
   },
   {
     "country": "United States",
@@ -173,7 +181,7 @@
     "source_name": "MDDHS",
     "region": "Wayne",
     "geoid": "US-26163",
-    "cases": 144
+    "cases": 151
   },
   {
     "country": "United States",
@@ -181,6 +189,6 @@
     "source_name": "MDDHS",
     "region": "Michigan",
     "geoid": "US-26",
-    "cases": 291
+    "cases": 311
   }
 ]
