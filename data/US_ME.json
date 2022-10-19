@@ -35,6 +35,14 @@
     "country": "United States",
     "region_type": "county",
     "source_name": "ME DHHS",
+    "region": "Knox",
+    "geoid": "US-23013",
+    "cases": 1
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "ME DHHS",
     "region": "Sagadahoc",
     "geoid": "US-23023",
     "cases": 1
@@ -53,6 +61,6 @@
     "source_name": "ME DHHS",
     "region": "Maine",
     "geoid": "US-23",
-    "cases": 10
+    "cases": 11
   }
 ]
