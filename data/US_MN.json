@@ -149,7 +149,7 @@
     "source_name": "MN DOH",
     "region": "Dakota",
     "geoid": "US-27037",
-    "cases": 15
+    "cases": 16
   },
   {
     "country": "United States",
@@ -213,7 +213,7 @@
     "source_name": "MN DOH",
     "region": "Hennepin",
     "geoid": "US-27053",
-    "cases": 155
+    "cases": 157
   },
   {
     "country": "United States",
@@ -493,7 +493,7 @@
     "source_name": "MN DOH",
     "region": "Ramsey",
     "geoid": "US-27123",
-    "cases": 28
+    "cases": 30
   },
   {
     "country": "United States",
@@ -653,7 +653,7 @@
     "source_name": "MN DOH",
     "region": "Washington",
     "geoid": "US-27163",
-    "cases": 5
+    "cases": 6
   },
   {
     "country": "United States",
@@ -701,6 +701,6 @@
     "source_name": "MN DOH",
     "region": "Minnesotta",
     "geoid": "US-27",
-    "cases": 226
+    "cases": 227
   }
 ]
