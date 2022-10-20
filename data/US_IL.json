@@ -181,7 +181,7 @@
     "source_name": "IL DPH",
     "region": "DuPage",
     "geoid": "US-17043",
-    "cases": 23
+    "cases": 24
   },
   {
     "country": "United States",
@@ -309,7 +309,7 @@
     "source_name": "IL DPH",
     "region": "Illinois",
     "geoid": "US-17",
-    "cases": 1353
+    "cases": 1355
   },
   {
     "country": "United States",
@@ -381,7 +381,7 @@
     "source_name": "IL DPH",
     "region": "Kankakee",
     "geoid": "US-17091",
-    "cases": 1
+    "cases": 2
   },
   {
     "country": "United States",
