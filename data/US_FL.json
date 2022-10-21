@@ -5,7 +5,7 @@
     "source_name": "FL DOH",
     "region": "Florida",
     "geoid": "US-12",
-    "cases": 2678
+    "cases": 2685
   },
   {
     "country": "United States",
@@ -37,7 +37,7 @@
     "source_name": "FL DOH",
     "region": "Broward",
     "geoid": "US-12011",
-    "cases": 681
+    "cases": 680
   },
   {
     "country": "United States",
@@ -93,7 +93,7 @@
     "source_name": "FL DOH",
     "region": "Duval",
     "geoid": "US-12031",
-    "cases": 54
+    "cases": 56
   },
   {
     "country": "United States",
@@ -173,7 +173,7 @@
     "source_name": "FL DOH",
     "region": "Lee",
     "geoid": "US-12071",
-    "cases": 22
+    "cases": 23
   },
   {
     "country": "United States",
@@ -269,7 +269,7 @@
     "source_name": "FL DOH",
     "region": "Pinellas",
     "geoid": "US-12103",
-    "cases": 151
+    "cases": 152
   },
   {
     "country": "United States",
@@ -277,7 +277,7 @@
     "source_name": "FL DOH",
     "region": "Polk",
     "geoid": "US-12105",
-    "cases": 26
+    "cases": 27
   },
   {
     "country": "United States",
@@ -309,7 +309,7 @@
     "source_name": "FL DOH",
     "region": "Seminole",
     "geoid": "US-12117",
-    "cases": 32
+    "cases": 33
   },
   {
     "country": "United States",
@@ -317,7 +317,7 @@
     "source_name": "FL DOH",
     "region": "St. Johns",
     "geoid": "US-12109",
-    "cases": 4
+    "cases": 5
   },
   {
     "country": "United States",
@@ -349,7 +349,7 @@
     "source_name": "FL DOH",
     "region": "Volusia",
     "geoid": "US-12127",
-    "cases": 23
+    "cases": 24
   },
   {
     "country": "United States",
