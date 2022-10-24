@@ -21030,3 +21030,448 @@ date,geoid,country,region,region_type,cases,source_name
 2022-10-23,US-56,United States,Wyoming,state,4,CDC
 2022-10-23,US-72,United States,Puerto Rico,state,183,CDC
 2022-10-23,US-NONRESIDENT,United States,Non-US Resident,state,3,CDC
+
+2022-10-24,US,United States,,country,26049,CDC
+2022-10-24,US-01,United States,Alabama,state,130,CDC
+2022-10-24,US-02,United States,Alaska,state,5,CDC
+2022-10-24,US-04,United States,Arizona,state,474,CDC
+2022-10-24,US-05,United States,Arkansas,state,59,CDC
+2022-10-24,US-06,United States,California,state,5372,CA CPDH
+2022-10-24,US-06,United States,California,state,5010,CDC
+2022-10-24,US-06001,United States,Alameda,county,255,CA CPDH
+2022-10-24,US-06007,United States,Butte,county,8,CA CPDH
+2022-10-24,US-06013,United States,Contra Costa,county,109,CA CPDH
+2022-10-24,US-06017,United States,El Dorado,county,2,CA CPDH
+2022-10-24,US-06019,United States,Fresno,county,53,CA CPDH
+2022-10-24,US-06023,United States,Humboldt,county,2,CA CPDH
+2022-10-24,US-06025,United States,Imperial,county,6,CA CPDH
+2022-10-24,US-06029,United States,Kern,county,18,CA CPDH
+2022-10-24,US-06031,United States,Kings,county,2,CA CPDH
+2022-10-24,US-06033,United States,Lake,county,1,CA CPDH
+2022-10-24,US-06037,United States,Los Angeles,county,2271,CA CPDH
+2022-10-24,US-06039,United States,Madera,county,1,CA CPDH
+2022-10-24,US-06041,United States,Marin,county,22,CA CPDH
+2022-10-24,US-06043,United States,Mariposa,county,1,CA CPDH
+2022-10-24,US-06045,United States,Mendocino,county,1,CA CPDH
+2022-10-24,US-06047,United States,Merced,county,2,CA CPDH
+2022-10-24,US-06053,United States,Monterey,county,19,CA CPDH
+2022-10-24,US-06055,United States,Napa,county,9,CA CPDH
+2022-10-24,US-06059,United States,Orange,county,269,CA CPDH
+2022-10-24,US-0606000,United States,Berkeley,city,21,CA CPDH
+2022-10-24,US-06061,United States,Placer,county,10,CA CPDH
+2022-10-24,US-06065,United States,Riverside,county,302,CA CPDH
+2022-10-24,US-06067,United States,Sacramento,county,141,CA CPDH
+2022-10-24,US-06069,United States,San Benito,county,1,CA CPDH
+2022-10-24,US-06071,United States,San Bernardino,county,101,CA CPDH
+2022-10-24,US-06073,United States,San Diego,county,436,CA CPDH
+2022-10-24,US-06075,United States,San Francisco,county,823,CA CPDH
+2022-10-24,US-06077,United States,San Joaquin,county,25,CA CPDH
+2022-10-24,US-06079,United States,San Luis Obispo,county,1,CA CPDH
+2022-10-24,US-06081,United States,San Mateo,county,83,CA CPDH
+2022-10-24,US-06083,United States,Santa Barbara,county,16,CA CPDH
+2022-10-24,US-06085,United States,Santa Clara,county,192,CA CPDH
+2022-10-24,US-06087,United States,Santa Cruz,county,10,CA CPDH
+2022-10-24,US-06089,United States,Shasta,county,3,CA CPDH
+2022-10-24,US-06095,United States,Solano,county,39,CA CPDH
+2022-10-24,US-06097,United States,Sonoma,county,46,CA CPDH
+2022-10-24,US-06099,United States,Stanislaus,county,26,CA CPDH
+2022-10-24,US-06101,United States,Sutter,county,1,CA CPDH
+2022-10-24,US-06107,United States,Tulare,county,7,CA CPDH
+2022-10-24,US-06109,United States,Tuolumne,county,1,CA CPDH
+2022-10-24,US-06111,United States,Ventura,county,25,CA CPDH
+2022-10-24,US-06113,United States,Yolo,county,11,CA CPDH
+2022-10-24,US-06115,United States,Yuba,county,1,CA CPDH
+2022-10-24,US-0643000,United States,Long Beach,city,118,CA CPDH
+2022-10-24,US-0656000,United States,Pasadena,city,28,CA CPDH
+2022-10-24,US-08,United States,Colorado,state,278,CDC
+2022-10-24,US-09,United States,Connecticut,state,126,CDC
+2022-10-24,US-10,United States,Delaware,state,38,CDC
+2022-10-24,US-10,United States,District of Columbia,state,497,CDC
+2022-10-24,US-12,United States,Florida,state,2697,FL DOH
+2022-10-24,US-12,United States,Florida,state,2543,CDC
+2022-10-24,US-12001,United States,Alachua,county,19,FL DOH
+2022-10-24,US-12005,United States,Bay,county,1,FL DOH
+2022-10-24,US-12009,United States,Brevard,county,6,FL DOH
+2022-10-24,US-12011,United States,Broward,county,683,FL DOH
+2022-10-24,US-12015,United States,Charlotte,county,1,FL DOH
+2022-10-24,US-12017,United States,Citrus,county,2,FL DOH
+2022-10-24,US-12019,United States,Clay,county,8,FL DOH
+2022-10-24,US-12021,United States,Collier,county,7,FL DOH
+2022-10-24,US-12027,United States,DeSoto,county,1,FL DOH
+2022-10-24,US-12029,United States,Dixie,county,1,FL DOH
+2022-10-24,US-12031,United States,Duval,county,57,FL DOH
+2022-10-24,US-12033,United States,Escambia,county,3,FL DOH
+2022-10-24,US-12035,United States,Flagler,county,3,FL DOH
+2022-10-24,US-12039,United States,Gadsden,county,5,FL DOH
+2022-10-24,US-12047,United States,Hamilton,county,1,FL DOH
+2022-10-24,US-12051,United States,Hendry,county,1,FL DOH
+2022-10-24,US-12057,United States,Hillsborough,county,219,FL DOH
+2022-10-24,US-12061,United States,Indian River,county,1,FL DOH
+2022-10-24,US-12063,United States,Jackson,county,1,FL DOH
+2022-10-24,US-12069,United States,Lake,county,15,FL DOH
+2022-10-24,US-12071,United States,Lee,county,23,FL DOH
+2022-10-24,US-12073,United States,Leon,county,27,FL DOH
+2022-10-24,US-12081,United States,Manatee,county,4,FL DOH
+2022-10-24,US-12083,United States,Marion,county,6,FL DOH
+2022-10-24,US-12085,United States,Martin,county,6,FL DOH
+2022-10-24,US-12086,United States,Miami-Dade,county,863,FL DOH
+2022-10-24,US-12087,United States,Monroe,county,23,FL DOH
+2022-10-24,US-12091,United States,Okaloosa,county,3,FL DOH
+2022-10-24,US-12095,United States,Orange,county,270,FL DOH
+2022-10-24,US-12097,United States,Osceola,county,35,FL DOH
+2022-10-24,US-12099,United States,Palm Beach,county,113,FL DOH
+2022-10-24,US-12101,United States,Pasco,county,20,FL DOH
+2022-10-24,US-12103,United States,Pinellas,county,152,FL DOH
+2022-10-24,US-12105,United States,Polk,county,27,FL DOH
+2022-10-24,US-12107,United States,Putnam,county,1,FL DOH
+2022-10-24,US-12109,United States,St. Johns,county,5,FL DOH
+2022-10-24,US-12111,United States,St. Lucie,county,12,FL DOH
+2022-10-24,US-12113,United States,Santa Rosa,county,7,FL DOH
+2022-10-24,US-12115,United States,Sarasota,county,5,FL DOH
+2022-10-24,US-12117,United States,Seminole,county,33,FL DOH
+2022-10-24,US-12119,United States,Sumter,county,1,FL DOH
+2022-10-24,US-12121,United States,Suwannee,county,1,FL DOH
+2022-10-24,US-12127,United States,Volusia,county,24,FL DOH
+2022-10-24,US-12131,United States,Walton,county,1,FL DOH
+2022-10-24,US-13,United States,Georgia,state,1815,CDC
+2022-10-24,US-15,United States,Hawaii,state,34,CDC
+2022-10-24,US-16,United States,Idaho,state,13,CDC
+2022-10-24,US-17,United States,Illinois,state,1364,IL DPH
+2022-10-24,US-17,United States,Illinois,state,1315,CDC
+2022-10-24,US-17001,United States,Adams,county,0,IL DPH
+2022-10-24,US-17003,United States,Alexander,county,0,IL DPH
+2022-10-24,US-17005,United States,Bond,county,0,IL DPH
+2022-10-24,US-17007,United States,Boone,county,0,IL DPH
+2022-10-24,US-17009,United States,Brown,county,0,IL DPH
+2022-10-24,US-17011,United States,Bureau,county,0,IL DPH
+2022-10-24,US-17013,United States,Calhoun,county,0,IL DPH
+2022-10-24,US-17015,United States,Carroll,county,0,IL DPH
+2022-10-24,US-17017,United States,Cass,county,0,IL DPH
+2022-10-24,US-17019,United States,Champaign,county,12,IL DPH
+2022-10-24,US-17021,United States,Christian,county,0,IL DPH
+2022-10-24,US-17023,United States,Clark,county,0,IL DPH
+2022-10-24,US-17025,United States,Clay,county,0,IL DPH
+2022-10-24,US-17027,United States,Clinton,county,0,IL DPH
+2022-10-24,US-17029,United States,Coles,county,0,IL DPH
+2022-10-24,US-17031,United States,Cook,county,1217,IL DPH
+2022-10-24,US-17033,United States,Crawford,county,0,IL DPH
+2022-10-24,US-17035,United States,Cumberland,county,0,IL DPH
+2022-10-24,US-17037,United States,DeKalb,county,3,IL DPH
+2022-10-24,US-17039,United States,De Witt,county,0,IL DPH
+2022-10-24,US-17041,United States,Douglas,county,0,IL DPH
+2022-10-24,US-17043,United States,DuPage,county,24,IL DPH
+2022-10-24,US-17045,United States,Edgar,county,0,IL DPH
+2022-10-24,US-17047,United States,Edwards,county,0,IL DPH
+2022-10-24,US-17049,United States,Effingham,county,0,IL DPH
+2022-10-24,US-17051,United States,Fayette,county,0,IL DPH
+2022-10-24,US-17053,United States,Ford,county,0,IL DPH
+2022-10-24,US-17055,United States,Franklin,county,0,IL DPH
+2022-10-24,US-17057,United States,Fulton,county,0,IL DPH
+2022-10-24,US-17059,United States,Gallatin,county,0,IL DPH
+2022-10-24,US-17061,United States,Greene,county,0,IL DPH
+2022-10-24,US-17063,United States,Grundy,county,0,IL DPH
+2022-10-24,US-17065,United States,Hamilton,county,0,IL DPH
+2022-10-24,US-17067,United States,Hancock,county,0,IL DPH
+2022-10-24,US-17069,United States,Hardin,county,0,IL DPH
+2022-10-24,US-17071,United States,Henderson,county,0,IL DPH
+2022-10-24,US-17073,United States,Henry,county,0,IL DPH
+2022-10-24,US-17075,United States,Iroquois,county,0,IL DPH
+2022-10-24,US-17077,United States,Jackson,county,0,IL DPH
+2022-10-24,US-17079,United States,Jasper,county,0,IL DPH
+2022-10-24,US-17081,United States,Jefferson,county,0,IL DPH
+2022-10-24,US-17083,United States,Jersey,county,0,IL DPH
+2022-10-24,US-17085,United States,Jo Daviess,county,0,IL DPH
+2022-10-24,US-17087,United States,Johnson,county,0,IL DPH
+2022-10-24,US-17089,United States,Kane,county,13,IL DPH
+2022-10-24,US-17091,United States,Kankakee,county,2,IL DPH
+2022-10-24,US-17093,United States,Kendall,county,4,IL DPH
+2022-10-24,US-17095,United States,Knox,county,0,IL DPH
+2022-10-24,US-17097,United States,Lake,county,10,IL DPH
+2022-10-24,US-17099,United States,LaSalle,county,1,IL DPH
+2022-10-24,US-17101,United States,Lawrence,county,0,IL DPH
+2022-10-24,US-17103,United States,Lee,county,0,IL DPH
+2022-10-24,US-17105,United States,Livingston,county,0,IL DPH
+2022-10-24,US-17107,United States,Logan,county,0,IL DPH
+2022-10-24,US-17109,United States,McDonough,county,0,IL DPH
+2022-10-24,US-17111,United States,McHenry,county,3,IL DPH
+2022-10-24,US-17113,United States,McLean,county,2,IL DPH
+2022-10-24,US-17115,United States,Macon,county,2,IL DPH
+2022-10-24,US-17117,United States,Macoupin,county,0,IL DPH
+2022-10-24,US-17119,United States,Madison,county,8,IL DPH
+2022-10-24,US-17121,United States,Marion,county,0,IL DPH
+2022-10-24,US-17123,United States,Marshall,county,0,IL DPH
+2022-10-24,US-17125,United States,Mason,county,0,IL DPH
+2022-10-24,US-17127,United States,Massac,county,0,IL DPH
+2022-10-24,US-17129,United States,Menard,county,0,IL DPH
+2022-10-24,US-17131,United States,Mercer,county,0,IL DPH
+2022-10-24,US-17133,United States,Monroe,county,0,IL DPH
+2022-10-24,US-17135,United States,Montgomery,county,0,IL DPH
+2022-10-24,US-17137,United States,Morgan,county,0,IL DPH
+2022-10-24,US-17139,United States,Moultrie,county,0,IL DPH
+2022-10-24,US-1714000,United States,Chicago,city,1068,IL DPH
+2022-10-24,US-17141,United States,Ogle,county,0,IL DPH
+2022-10-24,US-17143,United States,Peoria,county,0,IL DPH
+2022-10-24,US-17145,United States,Perry,county,0,IL DPH
+2022-10-24,US-17147,United States,Piatt,county,0,IL DPH
+2022-10-24,US-17149,United States,Pike,county,0,IL DPH
+2022-10-24,US-17151,United States,Pope,county,0,IL DPH
+2022-10-24,US-17153,United States,Pulaski,county,0,IL DPH
+2022-10-24,US-17155,United States,Putnam,county,0,IL DPH
+2022-10-24,US-17157,United States,Randolph,county,0,IL DPH
+2022-10-24,US-17159,United States,Richland,county,0,IL DPH
+2022-10-24,US-17161,United States,Rock Island,county,1,IL DPH
+2022-10-24,US-17163,United States,St. Clair,county,15,IL DPH
+2022-10-24,US-17165,United States,Saline,county,0,IL DPH
+2022-10-24,US-17167,United States,Sangamon,county,4,IL DPH
+2022-10-24,US-17169,United States,Schuyler,county,0,IL DPH
+2022-10-24,US-17171,United States,Scott,county,0,IL DPH
+2022-10-24,US-17173,United States,Shelby,county,0,IL DPH
+2022-10-24,US-17175,United States,Stark,county,0,IL DPH
+2022-10-24,US-17177,United States,Stephenson,county,0,IL DPH
+2022-10-24,US-17179,United States,Tazewell,county,1,IL DPH
+2022-10-24,US-17181,United States,Union,county,1,IL DPH
+2022-10-24,US-17183,United States,Vermilion,county,0,IL DPH
+2022-10-24,US-17185,United States,Wabash,county,0,IL DPH
+2022-10-24,US-17187,United States,Warren,county,0,IL DPH
+2022-10-24,US-17189,United States,Washington,county,0,IL DPH
+2022-10-24,US-17191,United States,Wayne,county,0,IL DPH
+2022-10-24,US-17193,United States,White,county,0,IL DPH
+2022-10-24,US-17195,United States,Whiteside,county,0,IL DPH
+2022-10-24,US-17197,United States,Will,county,35,IL DPH
+2022-10-24,US-17199,United States,Williamson,county,0,IL DPH
+2022-10-24,US-17201,United States,Winnebago,county,5,IL DPH
+2022-10-24,US-17203,United States,Woodford,county,1,IL DPH
+2022-10-24,US-18,United States,Indiana,state,234,CDC
+2022-10-24,US-19,United States,Iowa,state,25,CDC
+2022-10-24,US-20,United States,Kansas,state,14,CDC
+2022-10-24,US-21,United States,Kentucky,state,56,CDC
+2022-10-24,US-22,United States,Louisiana,state,254,CDC
+2022-10-24,US-23,United States,Maine,state,11,ME DHHS
+2022-10-24,US-23,United States,Maine,state,9,CDC
+2022-10-24,US-23001,United States,Androscoggin,county,1,ME DHHS
+2022-10-24,US-23003,United States,Aroostook,county,2,ME DHHS
+2022-10-24,US-23005,United States,Cumberland,county,2,ME DHHS
+2022-10-24,US-23009,United States,Hancock,county,1,ME DHHS
+2022-10-24,US-23013,United States,Knox,county,1,ME DHHS
+2022-10-24,US-23023,United States,Sagadahoc,county,1,ME DHHS
+2022-10-24,US-23031,United States,York,county,3,ME DHHS
+2022-10-24,US-24,United States,Maryland,state,700,MD DOH
+2022-10-24,US-24,United States,Maryland,state,662,CDC
+2022-10-24,US-24003,United States,Anne Arundel,county,38,MD DOH
+2022-10-24,US-24005,United States,Baltimore,county,62,MD DOH
+2022-10-24,US-24017,United States,Charles,county,13,MD DOH
+2022-10-24,US-24027,United States,Howard,county,15,MD DOH
+2022-10-24,US-24031,United States,Montgomery,county,84,MD DOH
+2022-10-24,US-24033,United States,Prince George,county,224,MD DOH
+2022-10-24,US-24510,United States,Baltimore City,county,229,MD DOH
+2022-10-24,US-25,United States,Massachusetts,state,402,CDC
+2022-10-24,US-26,United States,Michigan,state,311,MDDHS
+2022-10-24,US-26,United States,Michigan,state,266,CDC
+2022-10-24,US-26005,United States,Allegan,county,2,MDDHS
+2022-10-24,US-26015,United States,Barry,county,1,MDDHS
+2022-10-24,US-26017,United States,Bay,county,1,MDDHS
+2022-10-24,US-26049,United States,Genesee,county,9,MDDHS
+2022-10-24,US-26055,United States,Grand Traverse,county,1,MDDHS
+2022-10-24,US-26065,United States,Ingham,county,8,MDDHS
+2022-10-24,US-26067,United States,Ionia,county,1,MDDHS
+2022-10-24,US-26075,United States,Jackson,county,2,MDDHS
+2022-10-24,US-26077,United States,Kalamazoo,county,1,MDDHS
+2022-10-24,US-26081,United States,Kent,county,13,MDDHS
+2022-10-24,US-26093,United States,Livingston,county,2,MDDHS
+2022-10-24,US-26099,United States,Macomb,county,34,MDDHS
+2022-10-24,US-26115,United States,Monroe,county,1,MDDHS
+2022-10-24,US-26117,United States,Montcalm,county,1,MDDHS
+2022-10-24,US-26121,United States,Muskegon,county,1,MDDHS
+2022-10-24,US-26125,United States,Oakland,county,52,MDDHS
+2022-10-24,US-26139,United States,Ottawa,county,6,MDDHS
+2022-10-24,US-26145,United States,Saginaw,county,1,MDDHS
+2022-10-24,US-26147,United States,St. Clair,county,3,MDDHS
+2022-10-24,US-26155,United States,Shiawassee,county,1,MDDHS
+2022-10-24,US-26161,United States,Washtenaw,county,19,MDDHS
+2022-10-24,US-26163,United States,Wayne,county,151,MDDHS
+2022-10-24,US-2622000,United States,Detroit City,city,107,MDDHS
+2022-10-24,US-27,United States,Minnesotta,state,227,MN DOH
+2022-10-24,US-27,United States,Minnesota,state,202,CDC
+2022-10-24,US-27001,United States,Aitkin,county,0,MN DOH
+2022-10-24,US-27003,United States,Anoka,county,6,MN DOH
+2022-10-24,US-27005,United States,Becker,county,0,MN DOH
+2022-10-24,US-27007,United States,Beltrami,county,0,MN DOH
+2022-10-24,US-27009,United States,Benton,county,1,MN DOH
+2022-10-24,US-27011,United States,Big Stone,county,0,MN DOH
+2022-10-24,US-27013,United States,Blue Earth,county,0,MN DOH
+2022-10-24,US-27015,United States,Brown,county,0,MN DOH
+2022-10-24,US-27017,United States,Carlton,county,0,MN DOH
+2022-10-24,US-27019,United States,Carver,county,0,MN DOH
+2022-10-24,US-27021,United States,Cass,county,0,MN DOH
+2022-10-24,US-27023,United States,Chippewa,county,0,MN DOH
+2022-10-24,US-27025,United States,Chisago,county,0,MN DOH
+2022-10-24,US-27027,United States,Clay,county,1,MN DOH
+2022-10-24,US-27029,United States,Clearwater,county,0,MN DOH
+2022-10-24,US-27031,United States,Cook,county,0,MN DOH
+2022-10-24,US-27033,United States,Cottonwood,county,0,MN DOH
+2022-10-24,US-27035,United States,Crow Wing,county,0,MN DOH
+2022-10-24,US-27037,United States,Dakota,county,16,MN DOH
+2022-10-24,US-27039,United States,Dodge,county,0,MN DOH
+2022-10-24,US-27041,United States,Douglas,county,0,MN DOH
+2022-10-24,US-27043,United States,Faribault,county,0,MN DOH
+2022-10-24,US-27045,United States,Fillmore,county,0,MN DOH
+2022-10-24,US-27047,United States,Freeborn,county,0,MN DOH
+2022-10-24,US-27049,United States,Goodhue,county,0,MN DOH
+2022-10-24,US-27051,United States,Grant,county,0,MN DOH
+2022-10-24,US-27053,United States,Hennepin,county,157,MN DOH
+2022-10-24,US-27055,United States,Houston,county,0,MN DOH
+2022-10-24,US-27057,United States,Hubbard,county,0,MN DOH
+2022-10-24,US-27059,United States,Isanti,county,0,MN DOH
+2022-10-24,US-27061,United States,Itasca,county,0,MN DOH
+2022-10-24,US-27063,United States,Jackson,county,0,MN DOH
+2022-10-24,US-27065,United States,Kanabec,county,0,MN DOH
+2022-10-24,US-27067,United States,Kandiyohi,county,0,MN DOH
+2022-10-24,US-27069,United States,Kittson,county,0,MN DOH
+2022-10-24,US-27071,United States,Koochiching,county,0,MN DOH
+2022-10-24,US-27073,United States,Lac Qui Parle,county,0,MN DOH
+2022-10-24,US-27075,United States,Lake,county,0,MN DOH
+2022-10-24,US-27077,United States,Lake of the Woods,county,0,MN DOH
+2022-10-24,US-27079,United States,Le Sueur,county,0,MN DOH
+2022-10-24,US-27081,United States,Lincoln,county,0,MN DOH
+2022-10-24,US-27083,United States,Lyon,county,0,MN DOH
+2022-10-24,US-27085,United States,McLeod,county,0,MN DOH
+2022-10-24,US-27087,United States,Mahnomen,county,0,MN DOH
+2022-10-24,US-27089,United States,Marshall,county,0,MN DOH
+2022-10-24,US-27091,United States,Martin,county,0,MN DOH
+2022-10-24,US-27093,United States,Meeker,county,0,MN DOH
+2022-10-24,US-27095,United States,Mille Lacs,county,1,MN DOH
+2022-10-24,US-27097,United States,Morrison,county,0,MN DOH
+2022-10-24,US-27099,United States,Mower,county,0,MN DOH
+2022-10-24,US-27101,United States,Murray,county,0,MN DOH
+2022-10-24,US-27103,United States,Nicollet,county,0,MN DOH
+2022-10-24,US-27105,United States,Nobles,county,0,MN DOH
+2022-10-24,US-27107,United States,Norman,county,0,MN DOH
+2022-10-24,US-27109,United States,Olmsted,county,1,MN DOH
+2022-10-24,US-27111,United States,Otter Tail,county,0,MN DOH
+2022-10-24,US-27113,United States,Pennington,county,0,MN DOH
+2022-10-24,US-27115,United States,Pine,county,0,MN DOH
+2022-10-24,US-27117,United States,Pipestone,county,0,MN DOH
+2022-10-24,US-27119,United States,Polk,county,0,MN DOH
+2022-10-24,US-27121,United States,Pope,county,0,MN DOH
+2022-10-24,US-27123,United States,Ramsey,county,30,MN DOH
+2022-10-24,US-27125,United States,Red Lake,county,0,MN DOH
+2022-10-24,US-27127,United States,Redwood,county,0,MN DOH
+2022-10-24,US-27129,United States,Renville,county,0,MN DOH
+2022-10-24,US-27131,United States,Rice,county,0,MN DOH
+2022-10-24,US-27133,United States,Rock,county,0,MN DOH
+2022-10-24,US-27135,United States,Roseau,county,0,MN DOH
+2022-10-24,US-27137,United States,St. Louis,county,1,MN DOH
+2022-10-24,US-27139,United States,Scott,county,1,MN DOH
+2022-10-24,US-27141,United States,Sherburne,county,0,MN DOH
+2022-10-24,US-27143,United States,Sibley,county,0,MN DOH
+2022-10-24,US-27145,United States,Stearns,county,1,MN DOH
+2022-10-24,US-27147,United States,Steele,county,1,MN DOH
+2022-10-24,US-27149,United States,Stevens,county,0,MN DOH
+2022-10-24,US-27151,United States,Swift,county,0,MN DOH
+2022-10-24,US-27153,United States,Todd,county,0,MN DOH
+2022-10-24,US-27155,United States,Traverse,county,0,MN DOH
+2022-10-24,US-27157,United States,Wabasha,county,0,MN DOH
+2022-10-24,US-27159,United States,Wadena,county,0,MN DOH
+2022-10-24,US-27161,United States,Waseca,county,0,MN DOH
+2022-10-24,US-27163,United States,Washington,county,6,MN DOH
+2022-10-24,US-27165,United States,Watonwan,county,0,MN DOH
+2022-10-24,US-27167,United States,Wilkin,county,0,MN DOH
+2022-10-24,US-27169,United States,Winona,county,0,MN DOH
+2022-10-24,US-27171,United States,Wright,county,1,MN DOH
+2022-10-24,US-27173,United States,Yellow Medicine,county,0,MN DOH
+2022-10-24,US-28,United States,Mississippi,state,87,CDC
+2022-10-24,US-29,United States,Missouri,state,119,CDC
+2022-10-24,US-30,United States,Montana,state,6,CDC
+2022-10-24,US-31,United States,Nebraska,state,29,CDC
+2022-10-24,US-32,United States,Nevada,state,267,CDC
+2022-10-24,US-33,United States,New Hampshire,state,30,CDC
+2022-10-24,US-34,United States,New Jersey,state,720,CDC
+2022-10-24,US-35,United States,New Mexico,state,42,CDC
+2022-10-24,US-36,United States,New York,state,3815,NY DOH
+2022-10-24,US-36,United States,New York,state,3948,CDC
+2022-10-24,US-36001,United States,Albany,county,5,NY DOH
+2022-10-24,US-36005,United States,Bronx,county,718,NYC DOH
+2022-10-24,US-36007,United States,Broome,county,2,NY DOH
+2022-10-24,US-36015,United States,Chemung,county,1,NY DOH
+2022-10-24,US-36021,United States,Columbia,county,2,NY DOH
+2022-10-24,US-36025,United States,Delaware,county,1,NY DOH
+2022-10-24,US-36027,United States,Dutchess,county,10,NY DOH
+2022-10-24,US-36029,United States,Erie,county,17,NY DOH
+2022-10-24,US-36039,United States,Greene,county,2,NY DOH
+2022-10-24,US-36047,United States,Kings,county,871,NYC DOH
+2022-10-24,US-36055,United States,Monroe,county,12,NY DOH
+2022-10-24,US-36059,United States,Nassau,county,54,NY DOH
+2022-10-24,US-36061,United States,New York,county,1469,NYC DOH
+2022-10-24,US-36063,United States,Niagara,county,2,NY DOH
+2022-10-24,US-36065,United States,Oneida,county,1,NY DOH
+2022-10-24,US-36067,United States,Onondaga,county,1,NY DOH
+2022-10-24,US-36069,United States,Ontario,county,1,NY DOH
+2022-10-24,US-36071,United States,Orange,county,15,NY DOH
+2022-10-24,US-36079,United States,Putnam,county,5,NY DOH
+2022-10-24,US-36081,United States,Queens,county,578,NYC DOH
+2022-10-24,US-36083,United States,Rensselaer,county,1,NY DOH
+2022-10-24,US-36085,United States,Richmond,county,44,NYC DOH
+2022-10-24,US-36087,United States,Rockland,county,12,NY DOH
+2022-10-24,US-36089,United States,St. Lawrence,county,1,NY DOH
+2022-10-24,US-36093,United States,Schenectady,county,1,NY DOH
+2022-10-24,US-36099,United States,Seneca,county,1,NY DOH
+2022-10-24,US-36103,United States,Suffolk,county,70,NY DOH
+2022-10-24,US-36105,United States,Sullivan,county,4,NY DOH
+2022-10-24,US-36107,United States,Tioga,county,1,NY DOH
+2022-10-24,US-36109,United States,Tompkins,county,4,NY DOH
+2022-10-24,US-36111,United States,Ulster,county,2,NY DOH
+2022-10-24,US-36119,United States,Westchester,county,86,NY DOH
+2022-10-24,US-3651000,United States,New York City,city,3501,NY DOH
+2022-10-24,US-37,United States,North Carolina,state,566,CDC
+2022-10-24,US-38,United States,North Dakota,state,6,CDC
+2022-10-24,US-39,United States,Ohio,state,281,CDC
+2022-10-24,US-40,United States,Oklahoma,state,43,CDC
+2022-10-24,US-41,United States,Oregon,state,214,OHA
+2022-10-24,US-41,United States,Oregon,state,216,CDC
+2022-10-24,US-41005,United States,Clackamas,county,8,OHA
+2022-10-24,US-41009,United States,Columbia,county,2,OHA
+2022-10-24,US-41011,United States,Coos,county,1,OHA
+2022-10-24,US-41027,United States,Hood River,county,1,OHA
+2022-10-24,US-41039,United States,Lane,county,22,OHA
+2022-10-24,US-41047,United States,Marion,county,7,OHA
+2022-10-24,US-41051,United States,Multnomah,county,148,OHA
+2022-10-24,US-41061,United States,Union,county,1,OHA
+2022-10-24,US-41067,United States,Washington,county,24,OHA
+2022-10-24,US-42,United States,Pennsylvania,state,773,CDC
+2022-10-24,US-44,United States,Rhode Island,state,74,CDC
+2022-10-24,US-45,United States,South Carolina,state,172,CDC
+2022-10-24,US-46,United States,South Dakota,state,2,CDC
+2022-10-24,US-47,United States,Tennessee,state,309,CDC
+2022-10-24,US-48,United States,Texas,state,2372,CDC
+2022-10-24,US-49,United States,Utah,state,161,CDC
+2022-10-24,US-50,United States,Vermont,state,3,CDC
+2022-10-24,US-51,United States,Virginia,state,484,CDC
+2022-10-24,US-53,United States,Washington,county,615,WA DOH
+2022-10-24,US-53,United States,Washington,state,600,CDC
+2022-10-24,US-53005,United States,Benton,county,2,WA DOH
+2022-10-24,US-53007,United States,Chelan,county,2,WA DOH
+2022-10-24,US-53009,United States,Clallam,county,1,WA DOH
+2022-10-24,US-53011,United States,Clark,county,10,WA DOH
+2022-10-24,US-53015,United States,Cowlitz,county,1,WA DOH
+2022-10-24,US-53025,United States,Grant,county,1,WA DOH
+2022-10-24,US-53027,United States,Grays Harbor,county,1,WA DOH
+2022-10-24,US-53029,United States,Island,county,1,WA DOH
+2022-10-24,US-53033,United States,King,county,478,WA DOH
+2022-10-24,US-53035,United States,Kitsap,county,5,WA DOH
+2022-10-24,US-53037,United States,Kittitas,county,1,WA DOH
+2022-10-24,US-53041,United States,Lewis,county,2,WA DOH
+2022-10-24,US-53045,United States,Mason,county,1,WA DOH
+2022-10-24,US-53053,United States,Pierce,county,52,WA DOH
+2022-10-24,US-53057,United States,Skagit,county,1,WA DOH
+2022-10-24,US-53061,United States,Snohomish,county,33,WA DOH
+2022-10-24,US-53063,United States,Spokane,county,9,WA DOH
+2022-10-24,US-53067,United States,Thurston,county,2,WA DOH
+2022-10-24,US-53071,United States,Walla Walla,county,1,WA DOH
+2022-10-24,US-53073,United States,Whatcom,county,5,WA DOH
+2022-10-24,US-53075,United States,Whitman,county,1,WA DOH
+2022-10-24,US-53077,United States,Yakima,county,5,WA DOH
+2022-10-24,US-54,United States,West Virginia,state,12,CDC
+2022-10-24,US-55,United States,Wisconsin,state,76,CDC
+2022-10-24,US-56,United States,Wyoming,state,4,CDC
+2022-10-24,US-72,United States,Puerto Rico,state,183,CDC
+2022-10-24,US-NONRESIDENT,United States,Non-US Resident,state,3,CDC
