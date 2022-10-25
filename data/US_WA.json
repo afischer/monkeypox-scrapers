@@ -29,7 +29,7 @@
     "source_name": "WA DOH",
     "region": "Clark",
     "geoid": "US-53011",
-    "cases": 10
+    "cases": 11
   },
   {
     "country": "United States",
@@ -69,7 +69,7 @@
     "source_name": "WA DOH",
     "region": "King",
     "geoid": "US-53033",
-    "cases": 478
+    "cases": 481
   },
   {
     "country": "United States",
@@ -85,7 +85,7 @@
     "source_name": "WA DOH",
     "region": "Kittitas",
     "geoid": "US-53037",
-    "cases": 1
+    "cases": 2
   },
   {
     "country": "United States",
@@ -181,6 +181,6 @@
     "source_name": "WA DOH",
     "region": "Washington",
     "geoid": "US-53",
-    "cases": 615
+    "cases": 620
   }
 ]
