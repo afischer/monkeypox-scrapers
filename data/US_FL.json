@@ -5,7 +5,7 @@
     "source_name": "FL DOH",
     "region": "Florida",
     "geoid": "US-12",
-    "cases": 2701
+    "cases": 2708
   },
   {
     "country": "United States",
@@ -93,7 +93,7 @@
     "source_name": "FL DOH",
     "region": "Duval",
     "geoid": "US-12031",
-    "cases": 58
+    "cases": 59
   },
   {
     "country": "United States",
@@ -101,7 +101,7 @@
     "source_name": "FL DOH",
     "region": "Escambia",
     "geoid": "US-12033",
-    "cases": 3
+    "cases": 4
   },
   {
     "country": "United States",
@@ -141,7 +141,7 @@
     "source_name": "FL DOH",
     "region": "Hillsborough",
     "geoid": "US-12057",
-    "cases": 220
+    "cases": 221
   },
   {
     "country": "United States",
@@ -173,7 +173,7 @@
     "source_name": "FL DOH",
     "region": "Lee",
     "geoid": "US-12071",
-    "cases": 23
+    "cases": 24
   },
   {
     "country": "United States",
@@ -213,7 +213,7 @@
     "source_name": "FL DOH",
     "region": "Miami-Dade",
     "geoid": "US-12086",
-    "cases": 863
+    "cases": 864
   },
   {
     "country": "United States",
@@ -237,7 +237,7 @@
     "source_name": "FL DOH",
     "region": "Orange",
     "geoid": "US-12095",
-    "cases": 271
+    "cases": 272
   },
   {
     "country": "United States",
@@ -269,7 +269,7 @@
     "source_name": "FL DOH",
     "region": "Pinellas",
     "geoid": "US-12103",
-    "cases": 154
+    "cases": 155
   },
   {
     "country": "United States",
