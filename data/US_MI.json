@@ -29,7 +29,15 @@
     "source_name": "MDDHS",
     "region": "Detroit City",
     "geoid": "US-2622000",
-    "cases": 107
+    "cases": 113
+  },
+  {
+    "country": "United States",
+    "region_type": "county",
+    "source_name": "MDDHS",
+    "region": "Eaton",
+    "geoid": "US-26045",
+    "cases": 1
   },
   {
     "country": "United States",
@@ -37,7 +45,7 @@
     "source_name": "MDDHS",
     "region": "Genesee",
     "geoid": "US-26049",
-    "cases": 9
+    "cases": 10
   },
   {
     "country": "United States",
@@ -53,7 +61,7 @@
     "source_name": "MDDHS",
     "region": "Ingham",
     "geoid": "US-26065",
-    "cases": 8
+    "cases": 9
   },
   {
     "country": "United States",
@@ -85,7 +93,7 @@
     "source_name": "MDDHS",
     "region": "Kent",
     "geoid": "US-26081",
-    "cases": 13
+    "cases": 14
   },
   {
     "country": "United States",
@@ -101,7 +109,7 @@
     "source_name": "MDDHS",
     "region": "Macomb",
     "geoid": "US-26099",
-    "cases": 34
+    "cases": 37
   },
   {
     "country": "United States",
@@ -173,7 +181,7 @@
     "source_name": "MDDHS",
     "region": "Washtenaw",
     "geoid": "US-26161",
-    "cases": 19
+    "cases": 21
   },
   {
     "country": "United States",
@@ -181,7 +189,7 @@
     "source_name": "MDDHS",
     "region": "Wayne",
     "geoid": "US-26163",
-    "cases": 151
+    "cases": 158
   },
   {
     "country": "United States",
@@ -189,6 +197,6 @@
     "source_name": "MDDHS",
     "region": "Michigan",
     "geoid": "US-26",
-    "cases": 311
+    "cases": 327
   }
 ]
