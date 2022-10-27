@@ -5,7 +5,7 @@
     "source_name": "NYC DOH",
     "region": "Bronx",
     "geoid": "US-36005",
-    "cases": 718
+    "cases": 726
   },
   {
     "country": "United States",
@@ -13,7 +13,7 @@
     "source_name": "NYC DOH",
     "region": "Kings",
     "geoid": "US-36047",
-    "cases": 871
+    "cases": 878
   },
   {
     "country": "United States",
@@ -21,7 +21,7 @@
     "source_name": "NYC DOH",
     "region": "New York",
     "geoid": "US-36061",
-    "cases": 1469
+    "cases": 1477
   },
   {
     "country": "United States",
@@ -29,7 +29,7 @@
     "source_name": "NYC DOH",
     "region": "Queens",
     "geoid": "US-36081",
-    "cases": 578
+    "cases": 584
   },
   {
     "country": "United States",
