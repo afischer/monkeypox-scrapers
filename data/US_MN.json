@@ -213,7 +213,7 @@
     "source_name": "MN DOH",
     "region": "Hennepin",
     "geoid": "US-27053",
-    "cases": 157
+    "cases": 160
   },
   {
     "country": "United States",
@@ -493,7 +493,7 @@
     "source_name": "MN DOH",
     "region": "Ramsey",
     "geoid": "US-27123",
-    "cases": 30
+    "cases": 32
   },
   {
     "country": "United States",
@@ -701,6 +701,6 @@
     "source_name": "MN DOH",
     "region": "Minnesotta",
     "geoid": "US-27",
-    "cases": 230
+    "cases": 232
   }
 ]
