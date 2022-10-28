@@ -29,7 +29,7 @@
     "source_name": "WA DOH",
     "region": "Clark",
     "geoid": "US-53011",
-    "cases": 11
+    "cases": 12
   },
   {
     "country": "United States",
@@ -181,6 +181,6 @@
     "source_name": "WA DOH",
     "region": "Washington",
     "geoid": "US-53",
-    "cases": 620
+    "cases": 621
   }
 ]
